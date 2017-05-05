@@ -1,11 +1,15 @@
 ---
 layout: post
 title: "What's wrong with science?"
-excerpt: "Panel discussion with BBC World Service on reproducibility in science."
 categories: blog
+excerpt: "Panel discussion with BBC World Service on reproducibility in science."
 tags: [in-the-media, reproducibility, open-science]
+image:
+  feature:
 link: http://www.bbc.co.uk/programmes/p051b9zg
 date: 2017-05-05
+modified:
+share: true
 ---
 
 I was invited to discuss the "reproducibility crisis" for BBC Newshour Extra on the World Service.
