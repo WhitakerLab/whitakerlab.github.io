@@ -12,7 +12,7 @@ modified:
 share: true
 ---
 
-I wrote a blog post for the Mozilla Science Lab to encourage everyone to apply for the 2017 Mozilla fellows for science cohort.
+I wrote a blog post for the Mozilla Science Lab to encourage everyone to [apply for the 2017 Mozilla fellows for science](https://science.mozilla.org/programs/fellowships) cohort.
 
 You can check out the whole post at the [Mozilla Science Lab blog](https://science.mozilla.org/blog/kirsties-mozilla-fellowship-journey/) but here are a couple of key links:
 
