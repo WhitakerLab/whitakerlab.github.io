@@ -7,9 +7,10 @@ tags: [Alan Turing Institute]
 image:
   feature:
 link:
-date:2017-05-12
+date: 2017-05-12
 modified:
 share: true
+author: isla_staden
 ---
 
 As my first exercise at the Whitaker Lab, Kirstie, immediately detecting my social frailty, has asked me to introduce myself to some strangers at the Alan Turing Institute and ask them about their work. 
