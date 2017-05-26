@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Hitchhikers Guide to Brain Networks in Python
+title: Introduction to Brain Networks in Python
 categories: blog
 excerpt:
 tags: ['open-science', 'reproducibility','structural covariance', 'brain networks']
