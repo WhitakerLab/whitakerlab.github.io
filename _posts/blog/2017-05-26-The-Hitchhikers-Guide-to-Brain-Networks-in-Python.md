@@ -12,28 +12,22 @@ modified:
 share: true
 ---
 
-Brain Networks in Python is a [github repository](https://github.com/WhitakerLab/BrainNetworksInPython) to make available the python code WhitakerLab uses to analyse structural covariance brain networks. In this blog I would like to explain a little about what it does; how to use it; and why one might be interested in structural covariance brain networks. 
-
-## Why Structural Covariance Networks?
+Brain Networks in Python is a [github repository](https://github.com/WhitakerLab/BrainNetworksInPython) to make available the python code WhitakerLab uses to analyse structural covariance brain networks. In this blog I would like to explain a little about what it does and how to use it.
 
 
 ## Setting up
-To use Brain Networks in Python yourself I recommend cloning the [github repository](https://github.com/WhitakerLab/BrainNetworksInPython). It contains some example data and a Jupyter notebook to walk you through usage of the main functions.
+To use Brain Networks in Python yourself I recommend cloning the [github repository](https://github.com/WhitakerLab/BrainNetworksInPython). It contains some example data and a [Jupyter notebook](https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb) to walk you through usage of the main functions. For instructions on which Python packages you will need installed, consult the git hub [wiki](https://github.com/WhitakerLab/BrainNetworksInPython/wiki/Getting-Started).
 
 
-## What Brain Networks in Python does
+## What does Brain Networks in Python do?
 
-In short, Brain networks in python deduces a structural covariance network from data on cortical thickness in 308 brain regions for a cohort of participants. 
-
-### where does the data that goes in come from?
-
-Talk here a little bit about MRIs
+In short, Brain networks in python deduces a structural covariance network from data on cortical thickness in 308 brain regions for a cohort of participants. Once the network is created, Brain Networks in Python includes methods to study and produce figures of these networks.
 
 
-## Creating a Correlation Matrix
+### Creating a Correlation Matrix 
 
 The corrmat_from_regional_measures wrapper does the initial processing of our data.
-We feed it a csv file of our cortical thickness measures, along with two text files; a list of the brain regions, and a list of cartesian coordinates for those regions. It outputs a correlation matrix of cortical thickness by brain region. There is a nice command in visualisation_commands.py to get a look at this matrix.   
+We feed it a csv file of our cortical thickness measures, along with two text files; a list of the brain regions, and a list of cartesian coordinates for those regions. It outputs a correlation matrix of cortical thickness by brain region. There is a nice command in visualisation_commands.py to take a look at this matrix.   
 
 
 > visualisation_commands.view_corr_mat(corrmat_file, corrmat_picture, cmap_name='gnuplot2')  
@@ -49,14 +43,14 @@ We feed it a csv file of our cortical thickness measures, along with two text fi
 
 
 
-We put our names (of brain regions) in left to right order. In the figure the pale off-diagonals represent a high correlation between cortical thickness in symmetric regions, which fits with what is already known about the strong left-right links within the brain. 
+We chose to put our names (of brain regions) in left to right order. In the figure the pale off-diagonals represent a high correlation between cortical thickness in symmetric regions, which fits with what is already known about the strong left-right links within the brain. 
 
 
-## Network Analysis
+### Network Analysis
 
-The network_analysis_from_corrmat wrapper assembles a lot of information about the network 
+Once we have saved a correlation matrix, we can use the network_analysis_from_corrmat wrapper. It will create a network from our matrix and assemble a lot of the network information that we are interested in.
 
-### Creating the graph
+#### Creating the graph
 network_analysis_from_corrmat starts by creating a graph from our correlation matrix at a specified cost n. Let's break down how this works:
 
 * First of all, the brain is certainly a connected network, and we would like to get a connected graph so we start by taking a minimum spanning tree. 
@@ -66,7 +60,7 @@ network_analysis_from_corrmat starts by creating a graph from our correlation ma
 And that's all. Once we've finished making the graph we move on to taking some measures.
 
 
-### Nodal Measures
+#### Nodal Measures
 What are our they?:  
 
 * __degree :__ the degree of each node
@@ -80,11 +74,11 @@ What are our they?:
 
 * __clustering :__ the clustering coefficient is the fraction of a node’s neighbors that are neighbors to each other.
 
-* __participation coefficient and module assignment :__
+* __participation coefficient and module assignment :__ 
 
 * __average, total distance and interhem proporition (proportion?) :__
 
-### Creating Random Graphs
+#### Creating Random Graphs
 
 When we take global measures of our graph we'd like to have something to compare them to. To this end we create a number (n_rand) of (semi-)random graphs. We prefer to compare graphs with the same degree distribution (why? try to explain) so we create our random graphs from our first graph by performing a series of double edge swaps. 
 
@@ -97,7 +91,7 @@ We take a random pair of edges ab and cd, and we try to replace them with ac and
  If either of these new edges already exists, we abort and choose another pair, otherwise, we have changed the graph while keeping the degree of each node fixed.
 For more information about double edge swapping, see [here](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.12.9062)
 
-### Global Measures
+#### Global Measures
 
 We calculate six global measures for our graph, and for our random graphs
 
@@ -107,8 +101,7 @@ We calculate six global measures for our graph, and for our random graphs
 * __Modularity :__ Informally, the extent to which the network can be divided into distinct communities. [Wikipedia](https://en.wikipedia.org/wiki/Modularity_(networks)) with the full story.
 * __Efficiency :__ The average inverse shortest path length (where inverse means the reciprocal)
 * __Small world :__ 
-
-### Rich Club
+#### Rich Club
 
 Informally, we are measuring the extent to which __well-connected nodes are connected to each other__. We take k as a parameter, and for for nodes of degree >= k, we ask how many of their neighbours also have degree >= k. This depends heavily on the degree distribution for the graph, so we compare with random graphs of the same degree distribution. Head to [Wikipedia](https://en.wikipedia.org/wiki/Rich-club_coefficient) for a formal definition of the rich club.
 
@@ -133,4 +126,6 @@ anti clockwise from the top:
 * This figure describes our rich club values parameterised by degree, showing the mean and confidence intervals of the random graphs in grey, and the structural covariance graph in blue.
 
 * A comparison our network measures of our true graph in blue to our random graphs in grey
+
+And that's all for now! Thank you for reading, and if you want to see an example please make use of the [jupyter notebook](https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb) in the github repository, which works through all of the wrappers described here.
 
