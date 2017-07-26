@@ -1,3 +1,21 @@
+---
+layout: post
+title: Mozilla Mini Grant application 2017
+excerpt: "Isla's Brain Networks in Python Mozilla Mini Grant Application"
+date: 2017-07-26
+categories: resources
+tags: [applications, Mozilla, network neuroscience]
+comments: true
+share: true
+---
+
+This is my (successful) application for a [Mozilla Mini Grant](https://mozilla-science-lab.forms.fm/mozilla-science-mini-grant-application) 2017.
+
+The application was submitted on the 1st of June 2017
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
+
+
 # Mozilla Mini Grant application
 
 ***1st June 2017***
