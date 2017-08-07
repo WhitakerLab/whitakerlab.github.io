@@ -51,7 +51,7 @@ Johnson, E. C., Border, R., Melroy-Greif, W. E., de Leeuw, C., Ehringer, M. A., 
 
 There's also this slightly older review paper that seems worth checking out:
 
-Farrell, M. S., Werge, T., Sklar, P., Owen, M. J., Ophoff, R. A., O’Donovan, M. C., … Sullivan, P. F. (2015). Evaluating historical candidate genes for schizophrenia. Mol Psychiatry, 20(5), 555–562. [https://doi.org/10.1038/mp.2015.16](https://doi.org/10.1038/mp.2015.16)
+Farrell, M. S., Werge, T., Sklar, P., Owen, M. J., Ophoff, R. A., O’Donovan, M. C., … Sullivan, P. F. (2015). Evaluating historical candidate genes for schizophrenia. Mol Psychiatry, 20(5), 555–562. https://doi.org/10.1038/mp.2015.16 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25754081)
 
 ### Glial contributions to Schizophrenia
 
