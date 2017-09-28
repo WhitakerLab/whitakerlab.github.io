@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Boaty-McBrainNetworksInPython
+title: Boaty-McBrainNetworksInPython
 categories: blog
 excerpt:
 tags: [brain networks in python]
