@@ -3,7 +3,7 @@ layout: post
 title: Boaty-McBrainNetworksInPython
 categories: blog
 excerpt:
-tags: [brain networks in python]
+tags: [brain-networks-in-python, moz-open-leaders]
 image:
   feature:
 link:
