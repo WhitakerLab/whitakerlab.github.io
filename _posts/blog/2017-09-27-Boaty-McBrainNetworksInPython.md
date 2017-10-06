@@ -7,7 +7,7 @@ tags: [brain-networks-in-python, moz-open-leaders]
 image:
   feature:
 link:
-date: 27-09-2017
+date: 06-10-2017
 modified:
 share: true
 author: isla_staden
