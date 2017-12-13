@@ -37,3 +37,9 @@ As for the mini grant: I don't need to propound the value of money to anyone, bu
 [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/)  
 [Mozilla Science Mini Grant](https://mozilla-science-lab.forms.fm/mozilla-science-mini-grant-application)  
 [The Brain Networks In Python mini grant proposal](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/FUNDING_APPLICATIONS/MozillaScienceLabMiniGrant_June2017.md)  
+
+<figure>
+  <img src="/images/Mozfest1.jpg"
+       alt="MozFest">
+  <figcaption>Finally, a photo of the Brain Networks In Python MozFest session, and a thank you to all the folks at Mozilla who made this possible: Abby, Tim, Chris, Aurelia, Steph and many more :sparkles:</figcaption>
+</figure>
