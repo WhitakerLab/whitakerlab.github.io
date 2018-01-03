@@ -65,7 +65,7 @@ You can find out more about Chris at [www.cmadan.com](http://www.cmadan.com/) an
 
 ### Caterina Gratton
 
-Caterina is another alumna of the Helen Wills Neuroscience graduate program at UC Berkeley. She's at the University of Washington as a postdoc right now - and a member of the [Midnight Scan Club](https://www.pri.org/stories/2017-08-20/midnight-scan-club-sheds-new-light-human-brain) - but will be starting her own lab at Northwestern University in Fall 2018. As with all the other rising stars, she's going to be continue to be spectacular.
+Caterina is another alumna of the Helen Wills Neuroscience graduate program at UC Berkeley. She's at the University of Washington as a postdoc right now - and a member of the [Midnight Scan Club](https://www.pri.org/stories/2017-08-20/midnight-scan-club-sheds-new-light-human-brain) - but will be starting her own lab at Northwestern University in Fall 2018. As with all the other rising stars, she's going to continue to be spectacular...while raising beautiful twin girls with her husband [Terence Crofts](http://www.wrhr.wustl.edu/en/T32/Terence-Crofts). :dancers::two_women_holding_hands::raised_hands:
 
 You can find out more about Caterina at [sites.google.com/site/caterinagratton/home](https://sites.google.com/site/caterinagratton/home) and follow her on twitter [@GrattonCaterina](https://twitter.com/GrattonCaterina).
 
