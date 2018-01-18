@@ -6,10 +6,8 @@ excerpt: "Members of the Whitaker lab and their research interests."
 
 ## Head honcho: Dr Kirstie Whitaker
 
-<figure class="half">
-    <img src="/images/KW_OpenCon2016_Square.jpg" alt="Kirstie Whitaker" width="50%">
-    <img src="/images/kirstie-edinburgh-windy.jpg" alt="Kirstie on a windy hill" width="50%">
-</figure>
+<img src="/images/KW_OpenCon2016_Square.jpg" alt="Kirstie Whitaker" width="50%" align="left" hspace="20" vspace="20">
+
 
 Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She joined the Department of Psychiatry at the University of Cambridge in 2012 and conducted her postdoctoral research in the Brain Mapping Unit under the supervision of Professor Ed Bullmore. She remains a member of the department as a senior research associate.
 
@@ -29,10 +27,12 @@ __More information:__
 
 ### Isla Staden
 
-<figure class="half">
-    <img src="/images/IS_whitakerblogprofile.jpg" alt="Isla Staden" width="50%">
-    <img src="/images/mozfest-networks.jpg" alt="Isla at MozFest" width="50%">
-</figure>
+<img src="/images/IS_whitakerblogprofile.jpg" alt="Isla Staden" width="40%" align="left" hspace="20" vspace="20">
+  
+  
+  
+  
+  
 
 Isla Staden is a Research Assistant in the Whitaker Lab, refactoring [Brain Networks In Python](https://github.com/WhitakerLab/BrainNetworksInPython) and curating data in the [Neuroscience in Psychiatry Network](http://www.nspn.org.uk/). She is interested in topology and network science; open source development; open data and reproducible science and finally brains.
 
