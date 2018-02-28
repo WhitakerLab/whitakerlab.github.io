@@ -12,7 +12,7 @@ modified:
 share: true
 ---
 
-Hi everyone! Here are [my slides](https://doi.org/10.6084/m9.figshare.5932579) from my *Lunch and Learn* event today, hosted by the [Macquarie Group](https://www.macquarie.com/uk/corporate) Pride network.
+Hi everyone! Here are [my slides](https://doi.org/10.6084/m9.figshare.5932579) from my *Lunch and Learn* event today, hosted by the [Macquarie Group](https://www.macquarie.com/uk/corporate) Pride network. They represent my opinions and not (necessarily) those of the Turing or Macquarie Group (although I hope there's at least some overlap here!)
 
 <iframe src="https://widgets.figshare.com/articles/5932579/embed?show_title=1" width="568" height="351" frameborder="0" align="middle"></iframe>
 
@@ -46,8 +46,9 @@ A very non-comprehensive list of references for people wanting to know more and 
 * Scientific American special report on how diversity empowers science and innovation: [www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation](https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/)
   * Including this article on how diversity makes us smarter: [www.scientificamerican.com/article/how-diversity-makes-us-smarter](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
 * The Alan Turing Institute home page: [www.turing.ac.uk](https://www.turing.ac.uk/)
-* Details about the Macquarie Group's commitment to diversity and inclusion:  [https://www.macquarie.com/uk/about/careers/articles/diversity](www.macquarie.com/uk/about/careers/articles/diversity)
+* Details about the Macquarie Group's commitment to diversity and inclusion:  [www.macquarie.com/uk/about/careers/articles/diversity](https://www.macquarie.com/uk/about/careers/articles/diversity)
 * Details about the ongoing University and College Union (UCU) strike:  [www.ucu.org.uk/strikeforuss](https://www.ucu.org.uk/strikeforuss)
 * The visit us page at Bletchley Park because you *totally should go*! [bletchleypark.org.uk/visit-us](https://bletchleypark.org.uk/visit-us)
+* My fundraising page for AIDS/Lifecycle 2018 if you fancy supporting the SF AIDS Foundation and the LA LGBT Center: [tofighthiv.org/goto/kirstie](http://tofighthiv.org/goto/kirstie)
 
-My slides are licensed CC-BY which means you can use them (and remix them) for anything you'd like so long as you credit me. You can do that by citing this DOI: [10.6084/m9.figshare.5932579](https://doi.org/10.6084/m9.figshare.5932579.v1). I'd love to know if you find them helpful. 🌈💖🙌
+My slides are licensed CC-BY which means you can use them (and remix them) for anything you'd like so long as you credit me. You can do that by citing this DOI: [**10.6084/m9.figshare.5932579**](https://doi.org/10.6084/m9.figshare.5932579.v1). I'd love to know if you find them helpful. 🌈💖🙌
