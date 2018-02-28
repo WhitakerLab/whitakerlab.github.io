@@ -46,7 +46,7 @@ A very non-comprehensive list of references for people wanting to know more and 
 * Scientific American special report on how diversity empowers science and innovation: [www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation](https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/)
   * Including this article on how diversity makes us smarter: [www.scientificamerican.com/article/how-diversity-makes-us-smarter](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
 * The Alan Turing Institute home page: [www.turing.ac.uk](https://www.turing.ac.uk/)
-* Details about the Macquarie Group's commitment to diversity and inclusion:  [https://www.macquarie.com/uk/about/careers/articles/diversity](www.macquarie.com/uk/about/careers/articles/diversity)
+* Details about the Macquarie Group's commitment to diversity and inclusion:  [www.macquarie.com/uk/about/careers/articles/diversity](https://www.macquarie.com/uk/about/careers/articles/diversity)
 * Details about the ongoing University and College Union (UCU) strike:  [www.ucu.org.uk/strikeforuss](https://www.ucu.org.uk/strikeforuss)
 * The visit us page at Bletchley Park because you *totally should go*! [bletchleypark.org.uk/visit-us](https://bletchleypark.org.uk/visit-us)
 
