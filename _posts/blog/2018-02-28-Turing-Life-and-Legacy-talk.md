@@ -49,5 +49,6 @@ A very non-comprehensive list of references for people wanting to know more and 
 * Details about the Macquarie Group's commitment to diversity and inclusion:  [www.macquarie.com/uk/about/careers/articles/diversity](https://www.macquarie.com/uk/about/careers/articles/diversity)
 * Details about the ongoing University and College Union (UCU) strike:  [www.ucu.org.uk/strikeforuss](https://www.ucu.org.uk/strikeforuss)
 * The visit us page at Bletchley Park because you *totally should go*! [bletchleypark.org.uk/visit-us](https://bletchleypark.org.uk/visit-us)
+* My fundraising page for AIDS/Lifecycle 2018 if you fancy supporting the SF AIDS Foundation and the LA LGBT Center: [tofighthiv.org/goto/kirstie](http://tofighthiv.org/goto/kirstie)
 
 My slides are licensed CC-BY which means you can use them (and remix them) for anything you'd like so long as you credit me. You can do that by citing this DOI: [**10.6084/m9.figshare.5932579**](https://doi.org/10.6084/m9.figshare.5932579.v1). I'd love to know if you find them helpful. 🌈💖🙌
