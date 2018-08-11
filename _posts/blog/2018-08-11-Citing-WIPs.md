@@ -66,7 +66,7 @@ It's entirely up to them to determine whether the figures are interpretable (poi
 * Make it easy for people to give you credit for your work (your ideas, your code and/or your results). Get yourself a DOI and make sure everyone's names are in the metadata. Add an example sentence to your README file showing how someone can cite that DOI.
 * Add clear and prominent sentences to the README about what can and can not *at this stage* be concluded from the work.
 
-Basically I'm saying: put into accessible form, clearly linking to the content of the repository, what the licence already says:
+Basically I'm saying: put into accessible form, clearly linking to the content of the repository, what the project's [licence](https://github.com/srcole/o-factor/blob/master/LICENSE) already says:
 
 > [the work] is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND
