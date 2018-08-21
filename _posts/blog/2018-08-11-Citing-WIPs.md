@@ -60,7 +60,13 @@ The goal of this caveat is not to undermine the work they've done, but to be res
 
 It's entirely up to them to determine whether the figures are interpretable (point 2 above) or not. But I would really like for our open science allies around the world to be able to **give credit to the team for their idea and the process they developed**.
 
-*(Update: the team did an amazing job adding this information to their README, it looks awesome! [Check it out](https://github.com/srcole/o-factor) :raised_hands:)*
+*(Update: the team did an amazing job adding this information to their README, it looks awesome! Check it out at [https://github.com/srcole/o-factor](https://github.com/srcole/o-factor) :raised_hands:)*
+
+<figure>
+  <img src="https://raw.githubusercontent.com/srcole/o-factor/master/images/team.png"
+       alt="Picture of 8 team members around a whiteboard with notes">
+  <figcaption>The open science factor team at Neurohackademy 2018.</figcaption>
+</figure>
 
 ### tl;dr
 
