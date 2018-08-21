@@ -37,7 +37,7 @@ The specific example that came up on the last day of Neurohackademy was this twe
 
 The project *is* really cool. As they say in their [README file](https://github.com/srcole/o-factor):
 
-> The goal is to give journals (and later on also papers / scientists and more) a score of how "open science" they are. We want to find a way to promote open science and give incentives for scientists and journals to do and support more open science.
+> The goal of the project is to give journals (but in the future also papers, and importantly, scientists) a score of how "open science" they are. We want to find a way to promote open science and give incentives for scientists and journals to do and support more open science.
 
 The team did an incredible job over the four days of the hackathon and presented some lovely figures. These results aren't double checked and the scientists in the team knew that. Their presentation came with a strongly disclaimer that the results were pulled together over just a few days and shouldn't be taken as a final product.
 
@@ -61,7 +61,7 @@ The goal of this caveat is not to undermine the work they've done, but to be res
 It's entirely up to them to determine whether the figures are interpretable (point 2 above) or not. But I would really like for our open science allies around the world to be able to **give credit to the team for their idea and the process they developed**.
 
 *(Update: the team did an amazing job adding this information to their README, it looks awesome! [Check it out](https://github.com/srcole/o-factor) :raised_hands:)*
- 
+
 ### tl;dr
 
 * Share your work as you go along so you aren't reinventing the wheel!
