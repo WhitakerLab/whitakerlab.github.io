@@ -2,7 +2,7 @@
 layout: post
 title: Citing works in progress
 categories: blog
-excerpt:
+excerpt: Kirstie's thoughts on how you give *responsible* credit for work in progress
 tags: [ open-science, open-source, github, zenodo]
 image:
   feature:
