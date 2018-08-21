@@ -13,7 +13,7 @@ share: true
 author: kirstie_whitaker
 ---
 
-I answered this question in person recently - at [Neurohackademy](neurohackademy.org) - and I realised that it might be useful for others to read about.
+I answered this question in person recently - at [Neurohackademy](https://neurohackademy.org) - and I realised that it might be useful for others to read about.
 So in the spirit of "blog post or it didn't happen" here are my thoughts on citing works in progress.
 
 ### If you're working under an open licence, anyone can use anything you've done
