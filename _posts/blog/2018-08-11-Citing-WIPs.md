@@ -60,6 +60,8 @@ The goal of this caveat is not to undermine the work they've done, but to be res
 
 It's entirely up to them to determine whether the figures are interpretable (point 2 above) or not. But I would really like for our open science allies around the world to be able to **give credit to the team for their idea and the process they developed**.
 
+*(Update: the team did an amazing job adding this information to their README, it looks awesome! [Check it out](https://github.com/srcole/o-factor) :raised_hands:)*
+ 
 ### tl;dr
 
 * Share your work as you go along so you aren't reinventing the wheel!
