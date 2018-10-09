@@ -31,7 +31,7 @@ And my family paid a lot of money for me to go there for those nine years.
 The first version of my talk was approximately 4 hours long.
 I had so many things to say to the students.
 
-I wanted to talk about the fact that by going to an girls school I was protected from (percieved) misogyny until I was 29 years old.
+I wanted to talk about the fact that by going to an all girls school I was protected from (perceived) misogyny until I was 29 years old.
 (When it did happen it was so stereotypical it was laughable - I said something in a meeting and a man re-stated it 5 minutes later to great appreciation from the rest of the group.
 It was the first, but not the last, time this happened.)
 
@@ -122,7 +122,7 @@ And now I was off to study Neuroscience at UC Berkeley, in California, just outs
 
 I loved what I learned about Neuroscience, but more importantly I loved the people that I met.
 UC Berkeley is very proud of its history as a hub of the civil rights movement in the 1960s.
-And its close enough to Silicon Valley to have an entrepreneurial "we can do it" mindset.
+And it's close enough to Silicon Valley to have an entrepreneurial "we can do it" mindset.
 
 So that meant I was surrounded by smart, intelligent, passionate people who all wanted to change the world.
 To make a difference.
@@ -180,7 +180,7 @@ And I'm here from the future to tell you that *no one* knows what they're doing.
 But ultimately I'm working on my dream.
 I'm taking tiny baby steps towards my dream.
 
-And I know its intimidating to be told that you have to make a difference.
+And I know it's intimidating to be told that you have to make a difference.
 But you do.
 And you will.
 
