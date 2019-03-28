@@ -43,7 +43,10 @@ As for us, in winter we sometimes open our windows to cool off as the central he
 
 ## Previous experences 
 
-During my university period, I majored in automation at Harbin Institute of Technology, where I skipped most of classes because of my chair-warmer. I and my friend rent a house to set up a recording studio and I was in charge of producing MTV.  In my holiday, I did a part-time job as the figurant in Hendian,  the biggest cinema city in China, just attempted to watch how they professionally shoot videos. But after carrying on several advertising films, I realized that I shouldn’t regard video producing as my vocation, as the business often comes first than art and creativity.  
+During my university period, I majored in automation at Harbin Institute of Technology, where I skipped most of classes because I was doing so many other fun things 😬!
+I and my friend rent a house to set up a recording studio and I was in charge of producing MTV.
+In my holiday, I did a part-time job as the figurant in Hendian, the biggest cinema city in China, just attempted to watch how they professionally shoot videos.
+But after carrying on several advertising films, I realized that I shouldn’t regard video producing as my vocation, as the business often comes first than art and creativity.  
 
 I love music, including rock and roll, folk rhyme and pop music. One of  my favorite rock band is [MISERABLE FAITH](https://www.youtube.com/watch?v=I_Ftmi0SQK4) and I used the symbol of this band as the head portrait in my social-media account. It encouraged me that one should raise his head and never compromise to difficulties. 
 Also, I listened folk songs everyday, it gave me a place to release all my stress and [Bi Cheng](https://www.youtube.com/watch?v=REHTXKVQ2Z8) is one of my favoriate.
