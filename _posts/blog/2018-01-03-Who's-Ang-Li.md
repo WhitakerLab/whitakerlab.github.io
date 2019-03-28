@@ -61,7 +61,7 @@ Also, I listened folk songs everyday, it gave me a place to release all my stres
 
 Then my interest fell into mental disorder and brain science after watching some related films and TED lectures. 
 I’m very fortunate to meet and know my current Chinese supervisor Prof. [Bing Liu](http://www.brainnetome.org/people/faculty/BingLiu/) . 
-She’s a very kind and capable scientist and gave me a unique opportunity to do scientific research. In China, we did an interesting 
+She’s a very kind and talented scientist and gave me a unique opportunity to do scientific research. In China, we did an interesting 
 and meaningful research that developing a novel imaging biomarker for schizophrenia by using machine learning technologies and 
 large-sample case-control datasets, which can potentially help future diagnosis, medication and pathological studies. 
 
