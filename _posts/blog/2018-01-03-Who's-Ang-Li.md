@@ -54,7 +54,7 @@ Also, I listened folk songs everyday, it gave me a place to release all my stres
 <figure>
   <img src="/images/Who_s_Ang_Li/Chengbi.jpg"
        alt="chengbi">
-  <figcaption> 2017 New Year’s Eve concert of Bi Cheng, a folk singer in China. (Photoed at Hangzhou in 2017) </figcaption>
+  <figcaption> 2017 New Year’s Eve concert of Bi Cheng, a folk singer in China. (Photo taken by me at Hangzhou in 2017) </figcaption>
 </figure>
 
 # Fish in scientific research 
