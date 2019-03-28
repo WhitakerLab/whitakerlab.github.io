@@ -22,7 +22,7 @@ artistic data visualization, and understanding or building biomarkers for mental
 <figure>
   <img src="/images/Who_s_Ang_Li/jump.jpg"
        alt="Jump">
-  <figcaption> I like challenging but sometimes I also need a man to kick my ass behind.(Photoed at Huairou District of Beijing in 2016) </figcaption>
+  <figcaption> I like challenges but sometimes I also need a man to kick my ass behind. (Picuture taken at Huairou District of Beijing in 2016) </figcaption>
 </figure>
 
 ## Hometown 
