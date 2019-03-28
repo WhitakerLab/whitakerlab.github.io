@@ -38,7 +38,7 @@ As for us, in winter we sometimes open our windows to cool off as the central he
 <figure>
   <img src="/images/Who_s_Ang_Li/heilongjiang.png"
        alt="hometown">
-  <figcaption> My hometown (the photo from internet) </figcaption>
+  <figcaption> My hometown (the photo from internet (https://so.vjshi.com/889403.html)) </figcaption>
 </figure>
 
 ## Previous experences 
