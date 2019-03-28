@@ -15,7 +15,7 @@ author: Ang Li
 
 > I’m now a PhD student at the Institute of Automation of the Chinese Academy of Sciences (CASIA) and just 
 joined Kirstie’s lab as a one-year visiting student at the Alan Turing Institute, funded by Chinese Scholarship Council (CSC). 
-**My crruent research interests include neuroscience, genetics, neuroimaging and 
+**My current research interests include neuroscience, genetics, neuroimaging and 
 artistic data visualization, and understanding or building biomarkers for mental disorders.**
 
 
