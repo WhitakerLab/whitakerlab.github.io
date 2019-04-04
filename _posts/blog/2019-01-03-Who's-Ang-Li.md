@@ -2,6 +2,7 @@
 layout: post
 title: Who's Ang Li
 categories: blog
+excerpt: An introduction to the Whitaker lab's newest member
 image:
   feature:
 link:
