@@ -1,13 +1,19 @@
 # Site navigation links
 
-- title: About
+- title: Who's Who
   url: /about/
+
+- title: Visit
+  url: /visit/
 
 - title: Resources
   url: /resources/
 
 - title: Blog
   url: /blog/
+
+- title: Contact
+  url: /contact/
 
 - title: Search
   url: /search/
