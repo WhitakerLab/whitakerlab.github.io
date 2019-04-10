@@ -14,6 +14,13 @@ isla_staden:
   avatar: IS_whitakerblogprofile.jpg
   twitter: islastaden
 
+ang_li: # No spaces please
+  name: Ang Li # Your name
+  email: ali@turing.ac.uk # Your email
+  bio: # Add a few words about yourself within the quotation marks.
+  avatar: # Please add a picture to the images folder (ok to be an avatar rather than a picture of you if you'd prefer)
+  twitter: # Ok to leave blank
+
 #=============================================
 # Template profile - copy and paste this above
 # then complete as directed
