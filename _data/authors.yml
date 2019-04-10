@@ -17,9 +17,9 @@ isla_staden:
 ang_li: # No spaces please
   name: Ang Li # Your name
   email: ali@turing.ac.uk # Your email
-  bio: # Add a few words about yourself within the quotation marks.
-  avatar: # Please add a picture to the images folder (ok to be an avatar rather than a picture of you if you'd prefer)
-  twitter: # Ok to leave blank
+  bio: "Visting student at Alan Turing Institute and Ph.D candidate at Chinese Academy of Sciences"
+  avatar: Tongyang.jpeg
+  twitter: abc782544421
 
 #=============================================
 # Template profile - copy and paste this above
