@@ -14,6 +14,13 @@ isla_staden:
   avatar: IS_whitakerblogprofile.jpg
   twitter: islastaden
 
+ang_li: # No spaces please
+  name: Ang Li # Your name
+  email: ali@turing.ac.uk # Your email
+  bio: "Visting student at Alan Turing Institute and Ph.D candidate at Chinese Academy of Sciences"
+  avatar: Tongyang.jpeg
+  twitter: abc782544421
+
 #=============================================
 # Template profile - copy and paste this above
 # then complete as directed
