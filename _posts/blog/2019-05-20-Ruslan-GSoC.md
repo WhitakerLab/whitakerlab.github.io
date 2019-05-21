@@ -63,6 +63,12 @@ While applying I did not know that project is within a lab at the Turing Institu
 I am delighted of being able to contribute to such a meaningful project, become a member of the Whitaker lab research group and be part of the vast community of INCF organization. 
 Looking forward to the great summer!
 
+<figure>
+  <img src="/images/Ruslan-GSoC/worldCup.jpg"
+       alt="Buddy">
+  <figcaption> With the World Cup last summer. Next time with the real ;) </figcaption>
+</figure>
+
 ## My motto
 
 > Question everything, challenge yourself, execute!
