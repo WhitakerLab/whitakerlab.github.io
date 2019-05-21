@@ -21,6 +21,13 @@ ang_li: # No spaces please
   avatar: Tongyang.jpeg
   twitter: abc782544421
 
+ruslan_yermakov:
+  name: Ruslan Yermakov
+  email: yermakovruslan@gmail.com
+  bio: "GSoC Student and a member of the Whitaker lab over the summer to contribute to the Scona project"
+  avatar: Ruslan_blogprofile.jpeg
+  twitter: wingedRuslan
+
 #=============================================
 # Template profile - copy and paste this above
 # then complete as directed
