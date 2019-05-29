@@ -18,7 +18,7 @@ My name is Monica and I am currently an undergraduate student at Harvey Mudd Col
 I am joining the Whitaker Lab as a part of the Google Summer of Code program. 
 My interests for computer science are very recent - a year ago, I had wanted to be a surgeon! 
 I have discovered so many useful computer science applications for the medical field. 
-Through working with the ```tedana``` library, I hope to assist in denoising fMRI data, and dive deeper into the real life applications of CS!
+Through working with the [`tedana`](https://tedana.readthedocs.io/en/latest/) library, I hope to assist in denoising fMRI data, and dive deeper into the real life applications of CS!
 Outside of the combinations of CS + medicine, I am also very interested in computer systems engineering! 
 
 During my free time, I like to explore trendy food places and take pictures of them (I need to learn how to edit photos though)!
