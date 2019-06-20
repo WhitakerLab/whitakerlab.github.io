@@ -12,7 +12,7 @@ share: true
 author: Yini-He
 ---
 
-## who am I
+## Who am I
 
 --I am who I am（我就是我）
 
