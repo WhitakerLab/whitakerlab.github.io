@@ -36,7 +36,7 @@ I was born in Changsha city of China which famous for the spicy dishes and exces
 I love travelling around the world. The coexistence of the classics with the prosperity of London attracts me incredibly.  The people there are gentle and full of artistic temperament.  Modern and beautiful Vancouver attracts me just as much.  The people there understand the beauty of cultural integration.  Da Nang beckons to me with it’s mysteriousness and simplicity. The people there are warm and kind. 
 
 <figure>
-  <img src=/images/YiniHe/2panda3.jpg">
+  <img src="/images/YiniHe/2panda3.jpg">
 </figure>
                   
 At the same time, I am interested in all kinds of traditional Chinese culture, with its food, traditional clothing, calligaraphy, tea and Guqin(an ancient instrument of China). With a history of 5000 years, China has preserved its ancient philosophy and beautiful civilization.  More often, I am fascinated by the merging of Chinese and western cultures. I used to play the ukelele wearing Qipao(a traditional dress of China).  I also tried cooking a Chinese meal with fish and chips. 
@@ -64,7 +64,7 @@ I really appreciate that I have a great supervisor who is Tianzi Jiang.  He is a
 Now I came to the Turing Institute and I was pleasantly surprised here. I love Kirstie’s energy and she always give supports to me. She told me that I should do what I am most interested in. I hope to learn from her how to do the most convincing research. I also hope to learn from her passion to try to change the world.
 
 <figure>
-  <img src="/YiniHe/5wodebrain3.jpg">
+  <img src="/images/YiniHe/5wodebrain3.jpg">
 </figure>
 
 
