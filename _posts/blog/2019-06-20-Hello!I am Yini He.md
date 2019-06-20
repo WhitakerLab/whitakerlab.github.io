@@ -59,7 +59,9 @@ My university major is psychology.  In my senior year, I decided to go to a spec
 # My research experience
 
 Look at the fun of work, so we have fun every day(快乐生活，快乐工作)
+
 Ever since my experience as an intern at the school for special children, I have been concerned about the susceptibility to mental illness.  My major was modified to Neuroimaging.  The brilliance of how the brain works totally amazed me. I became very interested in regions of the brain, the connectivity and the fiber bundle of the brain where the source for the link on human behavior and emotion could be found and studied.
+
 I really appreciate that I have a great supervisor who is Tianzi Jiang.  He is always rigorous and enthusiastic about Neuroscience. I have to say from the heart, that he is one of the best scientists of the present time.  
 Now I came to the Turing Institute and I was pleasantly surprised here. I love Kirstie’s energy and she always give supports to me. She told me that I should do what I am most interested in. I hope to learn from her how to do the most convincing research. I also hope to learn from her passion to try to change the world.
 
