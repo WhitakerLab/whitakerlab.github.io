@@ -16,7 +16,7 @@ author: Yini-He
 
 --I am who I am（我就是我）
 
-My name is Yini He.I’m a PhD student with a major in neuroimaging at the University of Electronic Science and Technology of China (UESTC).It is truly amazing for me to study in the WhitakerLab at the Alan Turing Institute as a visiting student,jointly funded by Chinese Scholarship Council (CSC) and the Newton Fund.I am enthusiastic about  the relationship between individual traits, the brain and emotions, and particularly the associated risks of developing mental disorders.
+My name is Yini He（何旖旎）.I’m a PhD student with a major in neuroimaging at the University of Electronic Science and Technology of China (UESTC).It is truly amazing for me to study in the WhitakerLab at the Alan Turing Institute as a visiting student,jointly funded by Chinese Scholarship Council (CSC) and the Newton Fund.I am enthusiastic about  the relationship between individual traits, the brain and emotions, and particularly the associated risks of developing mental disorders.
 
 
 ## Where I come here  
