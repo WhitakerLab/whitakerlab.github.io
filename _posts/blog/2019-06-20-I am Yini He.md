@@ -42,7 +42,7 @@ I love travelling around the world. The coexistence of the classics with the pro
 At the same time, I am interested in all kinds of traditional Chinese culture, with its food, traditional clothing, calligaraphy, tea and Guqin(an ancient instrument of China). With a history of 5000 years, China has preserved its ancient philosophy and beautiful civilization.  More often, I am fascinated by the merging of Chinese and western cultures. I used to play the ukelele wearing Qipao(a traditional dress of China).  I also tried cooking a Chinese meal with fish and chips. 
 
 <figure>
-  <img src="whitakerlab.github.io/images/YiniHe/3qipao3.jpg">
+  <img src="/images/YiniHe/3qipao3.jpg">
 </figure>
 
 # Life and work goals
@@ -52,7 +52,7 @@ At the same time, I am interested in all kinds of traditional Chinese culture, w
 My university major is psychology.  In my senior year, I decided to go to a special school and work as an intern teacher there.  The students at this school were suffering from mental disorder. This was the first time that I truly understood the importance of mental health at heart.  I love those children even when some of them say things that are illogical and incoherent, while still others just always sat in a corner. But there are those who have great artistic talents.  Some of them are attractive and have a friendly disposition, willing to be best friends with me. Ever since then, I’ve always thought about these teenagers and hope that they could have a better life with the help of medical and therapeutic advancements for mental health. 
 
 <figure>
-  <img src="whitakerlab.github.io/images/YiniHe/4yuanmingyuan3.jpg">
+  <img src="/images/YiniHe/4yuanmingyuan3.jpg">
 </figure>
 
 
@@ -64,7 +64,7 @@ I really appreciate that I have a great supervisor who is Tianzi Jiang.  He is a
 Now I came to the Turing Institute and I was pleasantly surprised here. I love Kirstie’s energy and she always give supports to me. She told me that I should do what I am most interested in. I hope to learn from her how to do the most convincing research. I also hope to learn from her passion to try to change the world.
 
 <figure>
-  <img src="whitakerlab.github.io/images/YiniHe/5wodebrain3.jpg">
+  <img src="/YiniHe/5wodebrain3.jpg">
 </figure>
 
 
