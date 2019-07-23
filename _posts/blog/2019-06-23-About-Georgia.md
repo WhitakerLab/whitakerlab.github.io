@@ -30,7 +30,7 @@ I am open to collaborating and am interested in helping out with projects and pa
 
 
 <figure>
-  <img src="/images/Lauder.jpg"
+  <img src="/images/About_Georgia/Lauder.jpg"
        alt="Lauder">
 </figure>
 
@@ -42,7 +42,7 @@ If you like rolling emerald hills and can tolerate numberless midges and never-e
 Here I am as a tiny kid (the horse’s name is Godiva <3) – I was too young to form any memories of this moment, so I don’t know if I was happy or terrified :p
 
 <figure>
-  <img src="/images/Godiva.jpg"
+  <img src="/images/About_Georgia/Godiva.jpg"
        alt="Godiva">
 </figure>
 
@@ -56,7 +56,7 @@ I have a twin sister who's a professional pianist in Edinburgh.
 Like all twins, we share not only genes but dreams, and we have telepathic powers. Here she is playing:
 
 <figure>
-  <img src="/images/AilsaPiano.jpg"
+  <img src="/images/About_ Georgia/AilsaPiano.jpg"
        alt="Ailsa">
 </figure>
 
@@ -73,10 +73,9 @@ Reading!!!!!!! I'm a greedy omnivore who appreciates both books and computers.
 
 
 <figure>
-  <img src="/images/ReadWhileYouRun.jpg">
-  </figcaption>This looks dangerous - full disclosure I've never risked this level of efficiency!
-  Image comes from http://www.saltyrunning.com/readers-roundtable-read-run/.</figcaption>
-</figure>
+  <img src="/images/About_Georgia/ReadWhileYouRun.jpg">
+  <figcaption>This looks dangerous - full disclosure I've never risked this level of efficiency!
+  Image comes from <a href="http://www.saltyrunning.com/readers-roundtable-read-run">www.saltyrunning.com/readers-roundtable-read-run</a>
 
 
 Learning - I’m very excited to be at the Turing and to be able to develop skills and encounter new ideas! 
@@ -92,7 +91,7 @@ One of my motivations is to make sure all the work I do here at the Turing (and 
 
 
 <figure>
-  <img src="/images/GraceHopperBugs.jpg">
+  <img src="/images/About_Georgia/GraceHopperBugs.jpg">
   <figcaption>Image from Smithsonian Image Archive</figcaption>
 </figure>
 
