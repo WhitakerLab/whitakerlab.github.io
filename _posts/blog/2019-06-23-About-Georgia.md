@@ -56,7 +56,7 @@ I have a twin sister who's a professional pianist in Edinburgh.
 Like all twins, we share not only genes but dreams, and we have telepathic powers. Here she is playing:
 
 <figure>
-  <img src="/images/About_ Georgia/AilsaPiano.jpg"
+  <img src="/images/About_Georgia/AilsaPiano.jpg"
        alt="Ailsa">
 </figure>
 
