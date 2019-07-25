@@ -18,7 +18,7 @@ This week we had a guest speaker - [Bastian Greshake Tzvoras](#visiting-speaker-
 We asked, but didn't really answer, a few questions!
 Everyone (not just lab members) is welcome to brainstorm together in in our [gitter room](https://gitter.im/WhitakerLab/Lobby).
 
-### Celebrations and cool things to share
+## Celebrations and cool things to share
 
 **Kirstie** wrote a [little blog post](https://news.sky.com/story/turings-story-is-motivation-to-keep-fighting-for-equity-and-justice-11763751) for Sky News about Alan Turing being on the £50 note.
 
@@ -45,7 +45,7 @@ Thank you Bastian for going through all the steps with her.
 
 **Bastian** and Kirstie recommend the Flat earth documentary ["Behind the Curve"]( https://en.wikipedia.org/wiki/Behind_the_Curve) as a fascinating investigation of the importance of community.
 
-### Questions we're thinking about
+## Questions we're thinking about
 
 **Kirstie** is - kinda like always - wondering about the best way to communicate and share skills with the group.
 There are so much expertise in the group but it doesn't feel from her (my - I'm writing the blog post 😂) that folks are learning from each other.
@@ -58,7 +58,7 @@ She's wondering if there are "easy wins" to include in the process, or pitfalls 
 
 **Yo** is looking for recommendations for transcribing a different type of interview - research interviews - because at the moment it's painfully slow 😩
 
-### Visiting Speaker: Bastian Greshake Tzvoras
+## Visiting Speaker: Bastian Greshake Tzvoras
 
 We were so delighted to welcome Bastian to lab meeting today.
 He's been working with Kirstie and Georgia this week on the [Autistica/Turing citizen science project](https://www.turing.ac.uk/research/research-projects/citizen-science-platform-autistica) (which still doesn't have its insurance certificate so isn't public yet 😭).
