@@ -18,13 +18,13 @@ INTRO PARAGRAPH - replace this paragraph with an overview of the meeting.
 Try to add a picture if you can.
 
 
-### Celebrations
+## Celebrations and cool things to share
 
 
-### Cool things to share
+## Questions we're thinking about
 
 
-### Questions we're thinking about
+## Anything else
 
 
 ---
