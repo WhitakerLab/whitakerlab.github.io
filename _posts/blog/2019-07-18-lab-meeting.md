@@ -88,3 +88,9 @@ The concept is similar and related to [commons-based peer production](https://en
 
 Bastian be working for the next three years as a research fellow at the [Center for Research and Interdisciplinarity](https://cri-paris.org/) (CRI) in Paris from September 2019.
 Thank you for coming to speak with us Bastian, we're so excited to continue the collaboration 💖
+
+### Slides
+
+Thank you Bastian for sharing your slides!
+
+<iframe src="/images/lab-meeting/2019-07-18/CRI-presentation.pdf" width="600" height="400"></iframe>
