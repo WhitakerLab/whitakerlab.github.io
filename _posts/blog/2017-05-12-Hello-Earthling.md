@@ -30,6 +30,4 @@ Darren manages the [data-centric engineering programme](http://www.turing.ac.uk/
 
 Understanding the changes in language throughout history is a problem that has traditionally been tackled qualitatively, and there is good reason for that. Meaning is shaped by the knowledge that the reader possesses of the world around us (among other things), so it is a great challenge for the computer which must make sense of historical data. Taking advantage of the expertise of traditional scholars and advances in data science Barbara intends to answer these questions quantitatively and on a much larger scale. A program can follow a word through scores of historical texts trying to identify the changes in context that indicate a change in meaning. Her work is concerned with both the remote and recent past.
 
-
-
-A huge thank you to Hieu, Darren and Barbara for chatting to me :tada: :sparkles:
+A huge thank you to Hieu, Darren and Barbara for chatting to me 🎉✨
