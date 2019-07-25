@@ -15,7 +15,7 @@ author: kirstie_whitaker
 
 I've been off the grid over new year in a [beautiful hut in Northumbria](https://twitter.com/kirstie_j/status/948461671915376640). We did have phone signal (but no wifi), and I was reading twitter, but I was also trying to decompress and spend time with my partner so I didn't do a huge amount of communicating online.
 
-That meant I missed the opportunity on New Years Day to celebrate some of my friends being acknowledged as [APS Rising Stars](http://www.psychologicalscience.org/redesign/wp-content/uploads/2017/12/2017-Rising-Stars.pdf) :star2::sparkles::dizzy: and [Prof Ian Goodyer](https://www.thegazette.co.uk/notice/2938057) made an OBE (Order of the British Empire) in the New Years Honours.
+That meant I missed the opportunity on New Years Day to celebrate some of my friends being acknowledged as [APS Rising Stars](http://www.psychologicalscience.org/redesign/wp-content/uploads/2017/12/2017-Rising-Stars.pdf) 🌟✨💫 and [Prof Ian Goodyer](https://www.thegazette.co.uk/notice/2938057) made an OBE (Order of the British Empire) in the New Years Honours.
 
 I'm so proud of them that I've found some pictures of us all together for this post!
 
@@ -65,7 +65,7 @@ You can find out more about Chris at [www.cmadan.com](http://www.cmadan.com/) an
 
 ### Caterina Gratton
 
-Caterina is another alumna of the Helen Wills Neuroscience graduate program at UC Berkeley. She's at the University of Washington as a postdoc right now - and a member of the [Midnight Scan Club](https://www.pri.org/stories/2017-08-20/midnight-scan-club-sheds-new-light-human-brain) - but will be starting her own lab at Northwestern University in Fall 2018. As with all the other rising stars, she's going to continue to be spectacular...while raising beautiful twin girls with her husband [Terence Crofts](http://www.wrhr.wustl.edu/en/T32/Terence-Crofts). :dancers::two_women_holding_hands::raised_hands:
+Caterina is another alumna of the Helen Wills Neuroscience graduate program at UC Berkeley. She's at the University of Washington as a postdoc right now - and a member of the [Midnight Scan Club](https://www.pri.org/stories/2017-08-20/midnight-scan-club-sheds-new-light-human-brain) - but will be starting her own lab at Northwestern University in Fall 2018. As with all the other rising stars, she's going to continue to be spectacular...while raising beautiful twin girls with her husband [Terence Crofts](http://www.wrhr.wustl.edu/en/T32/Terence-Crofts). 👯👭🙌
 
 You can find out more about Caterina at [sites.google.com/site/caterinagratton/home](https://sites.google.com/site/caterinagratton/home) and follow her on twitter [@GrattonCaterina](https://twitter.com/GrattonCaterina).
 
