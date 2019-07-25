@@ -19,7 +19,7 @@ It's a day where the whole senior school (11-18) and the oldest members of the j
 <figure>
   <img src="/images/wgs-founders-day/orchestra.jpg"
        alt="Orchestra on stage with choirs in the background.">
-  <figcaption>The choirs and orchestra were wonderful. This is during their performance of a medley of music from The Greatest Showman :heart_eyes:</figcaption>
+  <figcaption>The choirs and orchestra were wonderful. This is during their performance of a medley of music from The Greatest Showman 😍</figcaption>
 </figure>
 
 ## Writing the speech
