@@ -25,11 +25,11 @@ During my free time, I like to explore trendy food places and take pictures of t
 
 <figure class="half">
   <img src="/images/Monica_Introduction/food1.jpg" alt="Delicious food picture 1">
-  <img src="/images/Monica_Introduction/food2.jpg" alt="Delicious food picture 1">
+  <img src="/images/Monica_Introduction/food2.jpg" alt="Delicious food picture 2">
 </figure>
 <figure class="half">
-  <img src="/images/Monica_Introduction/food3.jpg" alt="Delicious food picture 1">
-  <img src="/images/Monica_Introduction/food4.jpg" alt="Delicious food picture 1">
+  <img src="/images/Monica_Introduction/food3.jpg" alt="Delicious food picture 3">
+  <img src="/images/Monica_Introduction/food4.jpg" alt="Delicious food picture 4">
   <figcaption> Here are some of the recent food pictures I took! </figcaption>
 </figure>
 
