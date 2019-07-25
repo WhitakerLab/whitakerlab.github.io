@@ -15,7 +15,7 @@ author: kirstie_whitaker
 
 In the Bullmore lab meetings recently I've mentioned a few papers that I'd seen on twitter and I promised to email them around. Here is that email (but as a blog post for posterity!)
 
-Please note that these are absolutely *not* the only papers I've thought were interesting, just a non-random selection that I think others may want to know about :smile:
+Please note that these are absolutely *not* the only papers I've thought were interesting, just a non-random selection that I think others may want to know about ☺️
 
 ### Genetic analyses of depression
 
@@ -37,8 +37,8 @@ Howard, D. M., Adams, M. J., Shirali, M., Clarke, T.-K., Marioni, R. E., Davies,
 
 While I'm here talking about UK Biobank I want to share this resource: [https://biobankengine.stanford.edu](https://biobankengine.stanford.edu/search). I haven't explored it much, but it seems pretty fantastic!
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thrilled to release the first 500k UK <a href="https://twitter.com/uk_biobank">@uk_biobank</a> update to Global Biobank Engine from the Rivas Lab: <a href="https://t.co/a7XIdaM6sz">https://t.co/a7XIdaM6sz</a> <a href="https://t.co/x7lrrhjhVL">pic.twitter.com/x7lrrhjhVL</a></p>&mdash; Manuel Rivas (@manuelrivascruz) <a href="https://twitter.com/manuelrivascruz/status/893646060588998656">August 5, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+*Tweet deleted.*
+*Blog post updated to remove the link in July 2019.*
 
 ### Problems with candidate gene lists for Schizophrenia
 
