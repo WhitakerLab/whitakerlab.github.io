@@ -24,12 +24,12 @@ Outside of the combinations of CS + medicine, I am also very interested in compu
 During my free time, I like to explore trendy food places and take pictures of them (I need to learn how to edit photos though)!
 
 <figure class="half">
-  <img src="/images/Monica_Introduction/food1.jpg">
-  <img src="/images/Monica_Introduction/food2.jpg">
+  <img src="/images/Monica_Introduction/food1.jpg" alt="Delicious food picture 1">
+  <img src="/images/Monica_Introduction/food2.jpg" alt="Delicious food picture 1">
 </figure>
 <figure class="half">
-  <img src="/images/Monica_Introduction/food3.jpg">
-  <img src="/images/Monica_Introduction/food4.jpg">
+  <img src="/images/Monica_Introduction/food3.jpg" alt="Delicious food picture 1">
+  <img src="/images/Monica_Introduction/food4.jpg" alt="Delicious food picture 1">
   <figcaption> Here are some of the recent food pictures I took! </figcaption>
 </figure>
 
