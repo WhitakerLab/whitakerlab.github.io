@@ -68,7 +68,7 @@ Thank you for showing me how diverse and eclectic you all are.
 There's another book here.
 It's my book, that I received when I walked across this stage in 2000.
 It's called ["ICONS OF THE 20TH CENTURY: 200 men and women who made a difference"](https://www.amazon.co.uk/gp/product/0879518936/).
-And it's really heavy, so I'm going to put it down :wink:
+And it's really heavy, so I'm going to put it down 😉
 
 I always used to get bored in Founders Day speeches.
 I don't think I've ever paid attention to one of them - we always used to count the organ pipes to try to stay awake - so I can't really expect you to stay awake!

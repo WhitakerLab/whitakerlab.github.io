@@ -59,7 +59,7 @@ I'm a big fan of glial cells (particularly oligodendrocytes) so I wanted to like
 
 Windrem, M. S., Osipovitch, M., Liu, Z., Bates, J., Chandler-Militello, D., Zou, L., … Goldman, S. A. (2017). Human iPSC Glial Mouse Chimeras Reveal Glial Contributions to Schizophrenia. Cell Stem Cell, 21(2), 195–208.e6. [https://doi.org/10.1016/j.stem.2017.06.012](https://doi.org/10.1016/j.stem.2017.06.012)
 
-But I can't like it because I can't download it! Gaaaaah! If someone finds the PDF please do share it back with me :unamused:.
+But I can't like it because I can't download it! Gaaaaah! If someone finds the PDF please do share it back with me 😒.
 
 There is a nice [STAT](https://www.statnews.com/2017/07/20/schizophrenia-chimeras/) write up though, which gives an overview.
 

@@ -74,7 +74,7 @@ And, as one participant wrote:
 
 ## Great fun
 
-I had such a wonderful time on Friday. I learned so much from Bruno and the way he runs [Bionode](http://www.bionode.io/). Check it out and feel free to use any of the materials I've listed here! They're all openly licensed :smile:.
+I had such a wonderful time on Friday. I learned so much from Bruno and the way he runs [Bionode](http://www.bionode.io/). Check it out and feel free to use any of the materials I've listed here! They're all openly licensed 😊.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Aaaaah! We had so much fun at our <a href="https://twitter.com/hashtag/MicroWOW?src=hash">#MicroWOW</a>! Thank you to everyone who attended - such an inspiring evening 🙌🤗😍<a href="https://twitter.com/bmpvieira">@bmpvieira</a> <a href="https://t.co/vYmzyX0W8n">pic.twitter.com/vYmzyX0W8n</a></p>&mdash; Kirstie Whitaker (@kirstie_j) <a href="https://twitter.com/kirstie_j/status/858060250364211201">April 28, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
