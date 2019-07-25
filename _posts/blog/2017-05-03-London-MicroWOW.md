@@ -23,7 +23,7 @@ Here's how we described it at our eventbrite invitation:
 
 > The Working Open Workshop (or WOW) is a set of trainings created by Mozilla Science Lab to help up-and-coming leaders of open science and open research projects make the most effective open projects possible, and build active communities of contributors around them. For this micro event, we will focus on teaching how you can use Git/GitHub for collaborative work and share some best practices tips on how to build a community around your project!
 
-We held the event in the School of Biological and Chemical Sciences of Queen Mary University of London. **Thank you for hosting us QMUL!** :sparkles: :sparkles:
+We held the event in the School of Biological and Chemical Sciences of Queen Mary University of London. **Thank you for hosting us QMUL!** ✨ ✨
 
 
 ## Friendly GitHub Intro
@@ -38,7 +38,7 @@ In this very quick introduction to working open we talked about the importance o
 
 I want to recommend this blog post ["Don't push your pull requests"](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) to anyone who is thinking about submitting some work to be merged into an open source project.
 
-Building up communities around your projects is one of the most challenging and rewarding parts of building an open source project. Whether you're the project owner or a first time contributor, remember that there are real human people working hard on the other end of that online conversation. Sending them a little love and appreciation, and communicating clearly makes all the difference :heart:.
+Building up communities around your projects is one of the most challenging and rewarding parts of building an open source project. Whether you're the project owner or a first time contributor, remember that there are real human people working hard on the other end of that online conversation. Sending them a little love and appreciation, and communicating clearly makes all the difference 💖.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/bmpvieira">@bmpvieira</a> Then showing us that he&#39;s starred 1,300+ repositories!! YOU GET A STAR, YOU GET A STAR ;) <a href="https://twitter.com/hashtag/MicroWOW?src=hash">#MicroWOW</a> 2/n <a href="https://t.co/Kac672VooL">pic.twitter.com/Kac672VooL</a></p>&mdash; Kirstie Whitaker (@kirstie_j) <a href="https://twitter.com/kirstie_j/status/858068921659863045">April 28, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
