@@ -92,5 +92,6 @@ Thank you for coming to speak with us Bastian, we're so excited to continue the 
 ### Slides
 
 Thank you Bastian for sharing your slides!
+They're available under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/) (credit Bastian Greshake Tzvoras).
 
 <iframe src="/images/lab-meeting/2019-07-18/CRI-presentation.pdf" width="600" height="400"></iframe>
