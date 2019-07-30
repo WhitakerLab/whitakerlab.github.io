@@ -6,7 +6,7 @@ excerpt: Notes from the group's weekly lab meeting ### ADD a short description (
 tags: [lab-meeting] ### INSERT TAGS IF APPLICABLE
 image:
   feature:
-link: 
+link:
 date: 2050-01-01 ### UPDATE date
 modified:
 share: true
@@ -37,13 +37,13 @@ To create a new lab meeting blog post:
   * For example: `_posts/blog/2017-04-28-lab-meeting.md`
 2. In your new file update the header information:
   * Update the title by replacing "DATE" on line 3 with the date
-  * [OPTIONAL] Add tags by adding them inside the square brackets above and separating with commas, or just keep the default, 
+  * [OPTIONAL] Add tags by adding them inside the square brackets above and separating with commas, or just keep the default,
     * Eg: `[lab-meeting, open-humans]`
   * Update the date with today's date (or the date you want the post to go live) by replacing the date on line 9.
     * Double check that this is the same date as in the heading.
     * Make sure that the date is formatted as `YYYY-MM-DD`.
   * Change the author if you aren't `kirstie_whitaker` :wink:
-  
+
 3. Write the blog post! You can use markdown to format the text. Check out this handy dandy [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by [adam-p](https://github.com/adam-p).
   * You can follow the headings outlined above, or make up your own.
-  * Pictures are really good. Make a subfolder in the `images` folder and add them there. 
+  * Pictures are really good. Make a subfolder in the `images` folder and add them there.
