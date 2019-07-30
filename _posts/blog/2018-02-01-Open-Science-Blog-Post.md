@@ -39,7 +39,7 @@ I would like to live in a world where helping to advance the boundary of scienti
 
 ### Thank you David and Kevin
 
-It takes a lot of work to wrangle six different academics! Thank you David and Kevin for bringing this piece together and framing it with such a lovely introduction. I've copied and pasted this information about them from the blog post so my readers know just who you both are :smiley:
+It takes a lot of work to wrangle six different academics! Thank you David and Kevin for bringing this piece together and framing it with such a lovely introduction. I've copied and pasted this information about them from the blog post so my readers know just who you both are ☺️
 
 > David Mehler is an MD/PhD student at Cardiff University (UK) and the University of Muenster (Germany). Kevin S. Weiner is an Assistant Professor at UC Berkeley in the Department of Psychology and Helen Wills Neuroscience Institute. They are both members of the Communications Committee for the Organization for Human Brain Mapping.
 

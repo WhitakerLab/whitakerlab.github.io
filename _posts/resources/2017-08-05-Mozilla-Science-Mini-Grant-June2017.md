@@ -60,7 +60,11 @@ The Brain Networks in Python project provides open source, documented, tested an
 
 I will be mentored by Dr Kirstie Whitaker. Kirstie is a research fellow at the Turing Institute and outgoing Mozilla Fellow for Science. She is a neuroscientist who studies brain development, using graph theory to understand the brain as a network. Dr Whitaker is a two time mentor for the Mozilla Open Leadership Training Series and she has extensive skills in nurturing and supporting open projects. The Brain Networks in Python is built within the Whitaker Lab GitHub repository where Dr Whitaker is an active contributor. She will review all code and documentation and provide guidance to ensure the Brain Networks In Python project is accessible and usable for all.
 
-I will also work with the research software engineering team at the Alan Turing Institute. The team is lead by Dr James Heatherington who has worked for 5 years as the head of Research Software Development at University College London. In his words: "Well written, readable software, written for humans to read as well as computers to execute, forms an important part of research communications and can deliver significant research impact." ([http://www.ucl.ac.uk/research-it-services/people/james](http://www.ucl.ac.uk/research-it-services/people/james))
+I will also work with the research software engineering team at the Alan Turing Institute. The team is lead by Dr James Hetherington who has worked for 5 years as the head of Research Software Development at University College London. In his words: "Well written, readable software, written for humans to read as well as computers to execute, forms an important part of research communications and can deliver significant research impact." (http://www.ucl.ac.uk/research-it-services/people/james)
+
+*Link no longer resolves.*
+*James Hetherington is now Director of Research Engineering at the Turing.*
+*[https://www.turing.ac.uk/people/programme-directors/james-hetherington](https://www.turing.ac.uk/people/programme-directors/james-hetherington)*
 
 **On which Internet health issue(s) does your proposal focus?**
 
