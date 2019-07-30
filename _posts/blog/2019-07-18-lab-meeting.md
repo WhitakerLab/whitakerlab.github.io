@@ -39,7 +39,7 @@ But before she goes she'll run a "Friendly GitHub" workshop (inspired by [this o
 Kirstie recommended that Louise (and everyone!) should checkout Saul Pwanson's amazing talk at [csv,conf,v4](https://csvconf.com/) on ["How a File Format Led to a Crossword Scandal"](https://www.youtube.com/watch?v=9aHfK8EUIzg).
 You can see all the csv,conf talks online at this [YouTube playlist](https://www.youtube.com/playlist?list=PLg5zZXwt2ZW72M0KOOt8xQNXsSPMp4PNd).
 
-**Georgia** as built a demo for the Autistica/Citizen science platform!
+**Georgia** has built a demo for the Autistica/Citizen science platform!
 In fact she and Bastian did it in one day!! 🙀🚀🌟
 Thank you Bastian for going through all the steps with her.
 
