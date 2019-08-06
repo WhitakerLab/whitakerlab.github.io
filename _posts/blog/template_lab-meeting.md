@@ -33,8 +33,9 @@ DELETE EVERYTHING BELOW THE LINE AFTER YOU'VE READ IT!
 
 To create a new lab meeting blog post:
 
-1. Make a copy of this file and save it in the `_posts/blog` directory with a name that follows the convention: `YYYY-MM-DD-labmeeting.md`
-  * For example: `_posts/blog/2017-04-28-lab-meeting.md`
+1. Make a copy of this file and save it in the `_posts/blog` directory with a name that follows the convention: `YYYY-MM-DD-YYYY-MM-DD-labmeeting.md`
+  * For example: `_posts/blog/2017-04-28-2017-04-28-lab-meeting.md`
+  * You need the DOUBLE DATE because the first date gets stripped from the url, so if you want the date to appear you need to enter it twice!
 2. In your new file update the header information:
   * Update the title by replacing "DATE" on line 3 with the date
   * [OPTIONAL] Add tags by adding them inside the square brackets above and separating with commas, or just keep the default,
