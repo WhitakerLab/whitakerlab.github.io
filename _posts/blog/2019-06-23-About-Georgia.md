@@ -80,6 +80,7 @@ Reading!!!!!!! I'm a greedy omnivore who appreciates both books and computers.
 </figure>
 
 
+
 Learning - I’m very excited to be at the Turing and to be able to develop skills and encounter new ideas! 
 I’ve already had lots of warm welcoming, interesting discussions, mentoring, and support – thanks everyone.
 
