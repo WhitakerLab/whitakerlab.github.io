@@ -47,7 +47,7 @@ Sarah also wants to learn to do all of the cool things - every day is a differen
 
 “Amazing! It’s a really supportive environment, and the ethos is much more about collaboration than competition. People are not too possessive over their work. It’s nice to be able to share knowledge and get to a good solution together.”
 
-## :star: Ang Lee :star: 
+## :star: Ang Li :star: 
 
 #### “Tell me about your background”
 
