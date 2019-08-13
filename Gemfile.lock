@@ -216,7 +216,8 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-gist
+  jekyll-relative-links
   jekyll-sitemap
 
 BUNDLED WITH
-   1.15.0
+   2.0.2
