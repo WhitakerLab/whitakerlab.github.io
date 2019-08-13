@@ -15,7 +15,7 @@ author: GeorgiaHCA ###
 
 :tada: :star2: :rocket: Introducing three of my stellar Turing colleagues... 
 
-## Sarah Gibson
+## :star: Sarah Gibson :star: 
 
 #### "Tell me about your background"
 
@@ -47,7 +47,7 @@ Sarah also wants to learn to do all of the cool things - every day is a differen
 
 “Amazing! It’s a really supportive environment, and the ethos is much more about collaboration than competition. People are not too possessive over their work. It’s nice to be able to share knowledge and get to a good solution together.”
 
-## Ang Lee :thumbsup: 
+## :star: Ang Lee :star: 
 
 #### “Tell me about your background”
 
@@ -65,7 +65,7 @@ Ang would like to learn about reproducible research from Kirstie. His area norma
 
 “I love the working environment of the Turing, it’s different from my Chinese lab and I have more free space – I can work in a different place every day. Also, the Turing has the great advantage that we can meet people with diverse backgrounds and fields.”
 
-## Yini He
+## :star: Yini He :star: 
 
 #### “Tell me about your background” 
 
@@ -93,4 +93,4 @@ Yini is very interested in open science, which is new to her but which she think
 
 <em> I found out that Yini and I share a nickname – her friends call her the same Chinese name I was given when I worked in Beijing – Hwa Hwa – which means flower! So we have a special connection. </em> :cherry_blossom::cherry_blossom:
 
-###:octocat: Superstellar thank you to Sarah, Ang, and Yini for giving me their time and patiently answering my endless questions. I'm so excited to be working with them all! :octocat:
+:octocat: ### Superstellar thank you to Sarah, Ang, and Yini for giving me their time and patiently answering my questions. I'm so excited to be working with you all! :octocat:
