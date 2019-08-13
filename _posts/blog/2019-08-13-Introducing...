@@ -1,0 +1,18 @@
+---
+layout: post
+title: ### Introducing...
+categories: blog
+excerpt: ### blog introducing three people from Kirstie's lab 
+tags: [] ### INSERT TAGS IF APPLICABLE
+image:
+  feature:
+link: 
+date: 2019-08-13 ### UPDATE date
+modified:
+share: true
+author: GeorgiaHCA ### CHANGE to your author name (in _data/authors.yml)
+---
+
+#### Sarah Gibson 
+#### Ang Lee
+#### Yini He
