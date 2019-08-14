@@ -73,7 +73,8 @@ Reading!!!!!!! I'm a greedy omnivore who appreciates both books and computers.
 
 
 <figure>
-  <img src="/images/About_Georgia/ReadWhileYouRun.jpg">
+  <img src="/images/About_Georgia/ReadWhileYouRun.jpg"
+       alt="woman reading while running">
   <figcaption>This looks dangerous - full disclosure I've never risked this level of efficiency!
   Image comes from <a href="http://www.saltyrunning.com/readers-roundtable-read-run">www.saltyrunning.com/readers-roundtable-read-run</a>
   </figcaption>
@@ -93,7 +94,8 @@ One of my motivations is to make sure all the work I do here at the Turing (and 
 
 
 <figure>
-  <img src="/images/About_Georgia/GraceHopperBugs.jpg">
+  <img src="/images/About_Georgia/GraceHopperBugs.jpg"
+       alt="hand drawn bugs">
   <figcaption>Image from Smithsonian Image Archive</figcaption>
 </figure>
 
