@@ -26,7 +26,7 @@ Georgia: wants to know how to help people help each other in the lab meetings.
   * Sarah suggested that since she doesn’t have the domain knowledge to help everyone, if we talked about technical challenges, she would be better able to help.
   * Georgia suggested having some kind of shared goal which we can all work together on. 
   * Isla suggested being explicit and bringing an extremely practical problem everyone could on.
-  * Sarah  suggested something like a coding club - maybe there could be a small problem but one entirely contained within the meeting? Something like RegTech talks. 
+  * Sarah  suggested something like a coding club - maybe there could be a small problem but one entirely contained within the meeting? Something like REG tech talks. 
 
 Sarah: Wants tips on working on a project if the content is overwhelming (a.k.a anyone familiar with Guassian Processes? :sweat_smile:)
 
