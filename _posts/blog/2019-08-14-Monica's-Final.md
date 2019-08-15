@@ -70,6 +70,6 @@ Getting used to the workflow. Open source is extremely independent but also extr
 Testing!!! There are so many different ways to test functions. Just in the tedana library, there are break tests, smoke tests, unit tests, integration tests. Quality assurance isn't as easy as it seems. 
 In addition, I learned that the use of github isn't just version control, it is for you to make a pull request from your code, so others can review it. So what if it is rejected?!
 
-### What I’m going to do next (not related to the project!)
+### What I’m going to do next
 As cheesy as it sounds, this summer made me realize that a lot of what you plan do not come to actualization. So many different circumstances appeared, and I have learned to deal with some stressful real-life experiences. The next step for me is to focus on myself. I don’t think I’m at a good stage for more work, and I want to take a break from school (for a semester or a year). It may be too late for the fall semester, but I think that I will take the spring off to go back to China and spend a lot more time with family and getting to know my culture! 
 
