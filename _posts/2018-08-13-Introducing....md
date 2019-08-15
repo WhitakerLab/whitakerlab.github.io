@@ -35,7 +35,7 @@ As a data scientist, her job is analytical, and involves things like cleaning da
 
 If you don’t follow best practice, you run the risk of creating unreproducible code, or code that doesn’t do what you think it’s doing. There is the risk of the code producing an answer or output that that isn’t obviously wrong but is still wrong, and this is a real issue if there’s no transparency and no-one can interrogate it.
 
-Sarah is involved in creating The Turing Way. This was originally a guide for doing reproducible data science; but it is evolving into a more general guide. She has been linking up with the Binder community, as they have a great tool for sharing code and data very easily. Binder is a solution to being able to test whether you can get the same results from the same data: this could be by using mybinder.org which is completely public, or by installing your own binder hub and enabling it to work with a private repository. 
+Sarah is involved in creating [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way). This was originally a guide for doing reproducible data science; but it is evolving into a more general guide. She has been linking up with the [Binder](https://mybinder.readthedocs.io/en/latest/) community, as they have a great tool for sharing code and data very easily. Binder is a solution to being able to test whether you can get the same results from the same data: this could be by using [mybinder.org](https://mybinder.org) which is completely public, or by installing your own [BinderHub](https://binderhub.readthedocs.io/en/latest/) and enabling it to work with a private repository. 
 
 #### “What’s your ideal outcome of your time at the Turing?”
 
