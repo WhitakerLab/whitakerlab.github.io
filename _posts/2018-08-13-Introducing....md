@@ -39,7 +39,7 @@ Sarah is involved in creating [_The Turing Way_](https://github.com/alan-turing-
 
 #### “What’s your ideal outcome of your time at the Turing?”
 
-Sarah finds that the Turing gives her the opportunity to work in a lot of different domains and projects. Her ideal outcome would be that through the Turing she can “find my groove” as well as the domain that she is best at and appeals to her most. She’s proud to work with the Binder community and has been asked to be a long-term contributor - anything she could do to contribute to the community and push technology forward would make her very proud. 
+Sarah finds that the Turing gives her the opportunity to work in a lot of different domains and projects. Her ideal outcome would be that through the Turing she can “find her groove” as well as the domain that she is best at and appeals to her most. She’s proud to work with the Binder community and has been asked to be a long-term contributor - anything she could do to contribute to the community and push technology forward would make her very proud. 
 
 Sarah also wants to learn to do all of the cool things - every day is a different challenge, and it’s nice to have space to learn things properly!
 
