@@ -25,7 +25,7 @@ Gamma ray bursts form in two ways: when young massive stars go supernova, or two
 
 Dead stars that merge are much older:  you need to have time for two stars to die and then spiral into one another. Studying the gamma rays which neutron stars emit can tell us how often we can expect stars to die and how often collisions occur when stars are orbiting each other.
 
-NASA uses an autonomous satellite which can react rapidly and make decisions without a controller, and Sarah used Monte Carlo methods to optimise her model to the data. She also spent a month in Namibia where there’s an on-ground telescope, looking at gamma rays emitted from black holes at the centre of our galaxy. We can use this information to learn more about how standard the Milky Way is compared to other galaxies.
+NASA uses an autonomous satellite which can react rapidly and make decisions without a controller, and Sarah used Monte Carlo methods to optimise her model to the data collected by this satellite. She also spent a month in Namibia where there’s an on-ground telescope, looking at gamma rays emitted from black holes at the centre of our Galaxy. We can use this information to learn more about how standard the Milky Way is compared to other galaxies.
 
 #### “Tell me about your research at the Turing”
 
