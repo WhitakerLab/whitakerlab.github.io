@@ -26,7 +26,7 @@ This is what I wanted to do this summer! It's time to reflect.
 
 ### What I wanted to do
 
-I wanted to add a unit test to all the different functions in the tedana library, making it future proof for those who contribute to it in the future. 
+I wanted to add a unit test to all the different functions in the `tedana` library, making it future proof for those who contribute to it in the future. 
 
 My project with `tedana` was to make the testing deck more robust. The project was trying to make contributing more friendly for everyone!
 One big reason being that many who utilize `tedana` in publications are neuroscientists who do not regularly code, but the `tedana` community members want to welcome them to!
