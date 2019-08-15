@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Summer of Code - Monica's Final Report
+title: Monica's GSoC Final Report
 categories: blog
 excerpt: As summer comes to an end, so does GSoC. Monica reflects about her time here.
 image:
