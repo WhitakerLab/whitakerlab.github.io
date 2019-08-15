@@ -2,7 +2,7 @@
 layout: post
 title: Monica's GSoC Final Report
 categories: blog
-excerpt: As summer comes to an end, so does GSoC. Monica reflects about her time here.
+excerpt: Final report for work on the tedana project during GSoC 2019
 image:
   feature:
 link:
