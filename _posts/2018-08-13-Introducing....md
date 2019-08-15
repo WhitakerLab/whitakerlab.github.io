@@ -31,7 +31,7 @@ NASA uses an autonomous satellite which can react rapidly and make decisions wit
 
 Sarah’s official job title at the Turing is “Research Data Scientist”. There are two distinct roles, data scientist and software engineer, which are often seen as a binary, but the Turing treats them as a spectrum, and Sarah floats between the two. 
 
-As a data scientist, her job is analytical, and involves things like cleaning data sets, chosing the right methods to answer particular research questions, and creating data visualisations. As a software engineer, her work involves building tools, and following best practices when using code to answer questions. She says that it’s very important to remember that code is not infallible, a human has to create it and we are subject to our own biases and opinions that might be transferred.
+As a data scientist, her job is analytical, and involves things like cleaning data sets, choosing the right methods to answer particular research questions, and creating data visualisations. As a software engineer, her work involves building tools, and following best practices when using code to answer questions. She says that it’s very important to remember that code is not infallible, a human has to create it and we are subject to our own biases and opinions that might be transferred.
 
 If you don’t follow best practice, you run the risk of creating unreproducible code, or code that doesn’t do what you think it’s doing. There is the risk of the code producing an answer or output that that isn’t obviously wrong but is still wrong, and this is a real issue if there’s no transparency and no-one can interrogate it.
 
