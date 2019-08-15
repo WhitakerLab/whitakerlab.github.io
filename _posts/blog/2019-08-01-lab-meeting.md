@@ -7,7 +7,7 @@ Thanks Kirstie, Isla, and Sarah for your tips, suggestions, and a super interest
 ### Celebrations and cool things to share:
 
 Kirstie: is finding Neurohackademy great so far – with lots of awesome talks! Here are a select few :point_down:
-  * Codeclimate for readable code: https://codeclimate.com
+  * Codeclimate for readable code: [https://codeclimate.com](https://codeclimate.com)
   * Intro to git: http://rogerdudler.github.io/git-guide
   * The most fantastic git resource: https://ohshitgit.com
   * A bunch of thing you can do with Jupyer: https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
