@@ -42,20 +42,29 @@ Smoke tests simply test that the functions generate an output that is not null w
 I've recently started on adding a unit test for all the functions.
 
 Links of some of the pull requests and issues! 
-https://github.com/ME-ICA/tedana/pull/313
-https://github.com/ME-ICA/tedana/pull/314
-https://github.com/ME-ICA/tedana/pull/366
-https://github.com/ME-ICA/tedana/pull/367
-https://github.com/ME-ICA/tedana/issues/290
-https://github.com/ME-ICA/tedana/issues/335
-https://github.com/ME-ICA/tedana/issues/376
+1. [Updates to the home page of documentation](https://github.com/ME-ICA/tedana/pull/313)
+2. [Clarification for the ME-fMRI section in documentations](https://github.com/ME-ICA/tedana/pull/314)
+3. [Loading in current year during runtime for copyrights](https://github.com/ME-ICA/tedana/pull/366)
+4. [Smoke tests for files](https://github.com/ME-ICA/tedana/pull/367)
+5. [Issue addressing documentation](https://github.com/ME-ICA/tedana/issues/290)
+6. [Issue addressing smoke test for first steps of `tedana`](https://github.com/ME-ICA/tedana/issues/335)
+7. [Issue addressing smoke test for helper files of `tedana`](https://github.com/ME-ICA/tedana/issues/376)
 
 I don't have a comparison of the before/after of test coverage but a recent screenshot from a recent code coverage graph!
 <figure>
   <img src="/images/codecoverage.jpg"
-       alt="hometown">
+      >
   <figcaption> Screenshot of code coverage! </figcaption>
 </figure>
+
+This is also a screenshot of the different tests passing! 
+<figure>
+  <img src="/images/Pytests.jpg"
+      >
+  <figcaption> Screenshot of all the tests passing! 
+  Note: Warnings are suppressed for a better picture. </figcaption>
+</figure>
+
 
 ### What I didn't do 
 
@@ -74,7 +83,7 @@ Getting used to the workflow and understanding the technology behind `tedana`.
 Open source is extremely independent but also extremely dependent on the members of the community. 
 A big problem I had was wanting to work by myself to understand the technology as well as the library itself. 
 `tedana` is a difficult project to understand!
-I've tried to read the papers by (Kundu)[https://www.ncbi.nlm.nih.gov/pubmed/28363836] many times, and it is still hard to grasp. 
+I've tried to read the papers by [Kundu](https://www.ncbi.nlm.nih.gov/pubmed/28363836) many times, and it is still hard to grasp. 
 I was intimidated by the different building blocks of the library, but I had focused too much on the medical side, and forgot that I was supposed to handle more of the technological sides! 
 
 Even when encountering different roadblocks like understanding the library, I wanted to overcome it myself. 
