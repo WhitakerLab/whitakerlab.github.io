@@ -88,8 +88,8 @@ Moreover, owing to the constant feedback from my mentor, I was able to develop v
 
 #### Wish I could do more
 
-Now, when I became comfortable with the project, I feel like I could have contributed more to the development of the command-line tool itself if I initially had more knowledge on the neuroscience topic. 
-Nevertheless, Kirstie did her best to explain the gist of the major concepts and ideas to newbies like me, which allowed me to write documentation and to improve the code for conducting brain analysis, i.e. to improve the performance of small-world coefficient calculations. 
+Now, when I became comfortable with the project, I feel like I could have contributed more to the development of the command-line tool itself if I initially had more knowledge in the neuroscience field. 
+Nevertheless, Kirstie managed to explain the gist of the major concepts and ideas to newbies like me, which allowed me to write documentation and to improve the code for conducting brain analysis, i.e. to improve the performance of small-world coefficient calculations. 
 
 
 ## What I learned
@@ -97,7 +97,7 @@ Nevertheless, Kirstie did her best to explain the gist of the major concepts and
 Besides improving my technical skills, I've learned much more about the open-source world of software development. 
 There are a lot of enthusiastic and top-notch contributors who support different open-source initiatives by devoting their time and efforts to build projects that make people's lives better and easier. 
 
-What is more, I was able to acquire a great understanding and I've learned in details about open science principles and reproducibility in science from my mentor. 
+What is more, I was able to acquire a great understanding about open science principles and reproducibility in science from my mentor. 
 Dr. Kirstie Whitaker addresses the flaws in the academic world by advocating for reproducible & replicable research and promoting a true ideal for open science that supports diversity and inclusion.
 
 ## Future Plans
