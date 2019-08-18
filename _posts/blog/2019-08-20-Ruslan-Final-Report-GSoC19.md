@@ -39,7 +39,7 @@ Within the GSoC program I was able to achieve the following deliverables:
 ## Links to my contributions
 
 There are a bunch of [issues](https://github.com/WhitakerLab/scona/issues) within the project, which were used to discuss new features, to find solutions for challenges and to communicate the results.
-You can easily search for issues by filtering using label “visualisations” and/or “enhancement”.
+You can easily search for issues by filtering using label ["visualisations"](https://github.com/WhitakerLab/scona/issues?q=is%3Aissue+is%3Aopen+label%3Avisualisations) and/or ["enhancement"](https://github.com/WhitakerLab/scona/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement).
 
 Here are the links to my merged **Pull Requests** that cover all the work:
 1. [Implementation of visualisation tools #121](https://github.com/WhitakerLab/scona/pull/121)
