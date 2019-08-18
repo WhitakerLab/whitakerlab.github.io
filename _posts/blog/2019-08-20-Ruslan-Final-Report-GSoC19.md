@@ -14,10 +14,10 @@ author: ruslan_yermakov
 
 ## TL;DR - GSoC Summary
 
-> **Student**: Ruslan Yermakov
-> **Mentor**: Dr Kirstie Whitaker
-> **Organization**: [INCF](https://www.incf.org/gsoc2019/projectlist)
-> **Project**: Open-source project [**scona**](https://github.com/WhitakerLab/scona) - a toolkit to perform brain network analyses
+> **Student**: Ruslan Yermakov <br>
+> **Mentor**: Dr Kirstie Whitaker <br>
+> **Organization**: [INCF](https://www.incf.org/gsoc2019/projectlist) <br>
+> **Project**: Open-source project [**scona**](https://github.com/WhitakerLab/scona) - a toolkit to perform brain network analyses <br>
 > **Project's goal**: Producing publication-ready brain network analysis results and visualisations from the command line
 
 In this blog I am sharing the achieved deliverables and results with the community.
