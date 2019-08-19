@@ -40,6 +40,6 @@ suicide. However, some of the patients tend to respond more to this surgery, whi
 investigate this heterogeneity and thus pursue a PhD degree at University of Cambridge. He's project here is pretty 
 cool and aims to identify the depression patients who would be most likely to respond to this surgery and find the 
 optimal surgery target for each individual, which involving neurosurgery, neuroimaging and machine learning. He also 
-believes that the curcuit of this surgery targets is a transdiagnostic biomarker, and thus could be useful to apply 
+believes that the curcuit of this surgery targets is a transdiagnostic biomarker, and thus it could be useful to apply 
 this surgery to all patients who have strong suicidal urges. I really love his ideas and hope he can move this 
 promising field forward and help with more patients. 
