@@ -18,7 +18,7 @@ to lead to suitable clinical interventions for mental health by using multi-moda
 developing a clinically useful application for mental health through his expert in deep learning. He’s also working 
 on some other projects. One project he’s working on is to analyze speech signals of individuals with mental 
 disorders and try to help early identify clinical high risk individuals and aid the diagnose processing in 
-psychiatry. He believe the key of such success could benefit more from novel methods integrated with prior 
+psychiatry. He believes the key of such success could benefit more from novel methods integrated with prior 
 knowledge and correct data, and we could not only rely on the magic of AI. He’s very helpful and helped me 
 with establishing the azure server and applying for credits, which is crucial for my work in Turing. Bo may 
 come back to China one day and It would be exciting if I can collaborate with him on some project in the future. 
