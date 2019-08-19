@@ -28,7 +28,7 @@ Alex Campbell is an enrichment student at Turing and a PhD candidate at Universi
 period, Alex used deep learning technology in financial data mining and then he switched his main interest to
 brain science and mental disorders. Kirstie introduced Alex to me as he is also worked on projects using neuroimaging 
 data. One of his interests is to apply advanced AI models to data on human brains. Alex shared his recent work with me, 
-where he used sophisticated machine learning model on a large-sample fMRI dataset to derive pathological brain circuits 
+where he used a sophisticated machine learning model on a large-sample fMRI dataset to derive pathological brain circuits 
 in autism. Alex is very helpful and really an expert at deep learnig models. He suggested me that I could use Siamese 
 network to index maturity in my project, which is very useful. 
 
