@@ -20,7 +20,7 @@ on some other projects. One project he’s working on is to analyze speech signa
 disorders and try to help identify early high risk individuals and aid the diagnosis processing in
 psychiatry. He believes the key of such success could benefit more from novel methods integrated with prior 
 knowledge and correct data, and we could not only rely on the magic of AI. He’s very helpful and helped me 
-with establishing the azure server and applying for credits, which is crucial for my work in Turing. Bo may 
+with establishing the azure server and applying for credits, which is crucial for my work in the Turing. Bo may 
 come back to China one day and It would be exciting if I can collaborate with him on some project in the future. 
 
 ## Alex Campbell
