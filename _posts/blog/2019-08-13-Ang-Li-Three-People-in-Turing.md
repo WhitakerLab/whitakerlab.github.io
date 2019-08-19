@@ -21,7 +21,7 @@ disorders and try to help identify early high risk individuals and aid the diagn
 psychiatry. He believes the key of such success could benefit more from novel methods integrated with prior 
 knowledge and correct data, and we could not only rely on the magic of AI. He’s very helpful and helped me 
 with establishing the azure server and applying for credits, which is crucial for my work in the Turing. Bo may 
-come back to China one day and It would be exciting if I can collaborate with him on some project in the future. 
+come back to China one day and it would be exciting if I can collaborate with him on some project in the future. 
 
 ## Alex Campbell
 Alex Campbell is an enrichment student at Turing and a PhD candidate at University of Cambridge. During his Master's 
