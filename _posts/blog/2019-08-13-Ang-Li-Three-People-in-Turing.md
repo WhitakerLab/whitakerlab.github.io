@@ -25,7 +25,7 @@ come back to China one day and It would be exciting if I can collaborate with hi
 
 ## Alex Campbell
 Alex Campbell is an enrichment student at Turing and a PhD candidate at University of Cambridge. During Master 
-period, Alex used deep leanring technology in financial data mining and then he switched his main interest into
+period, Alex used deep learning technology in financial data mining and then he switched his main interest to
 brain science and mental disorder. Kirstie introduced Alex to me as he is also worked on projects using neuroimaging 
 data. One of his interests is to apply advanced AI models to data of human brain. Alex shared his recent work with me, 
 where he used sophisticated machine learning model on a large-sample fMRI dataset to derive pathological brain circuits 
