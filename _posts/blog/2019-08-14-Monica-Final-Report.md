@@ -52,14 +52,14 @@ Links of some of the pull requests and issues!
 
 I don't have a comparison of the before/after of test coverage but a recent screenshot from a recent code coverage graph!
 <figure>
-  <img src="/images/codecoverage.jpg"
+  <img src="/images/codecoverage.jpg" alt="codecoverage"
       >
   <figcaption> Screenshot of code coverage! </figcaption>
 </figure>
 
 This is also a screenshot of the different tests passing! 
 <figure>
-  <img src="/images/Pytests.jpg"
+  <img src="/images/Pytests.jpg" alt="pytests"
       >
   <figcaption> Screenshot of all the tests passing! 
   Note: Warnings are suppressed for a better picture. </figcaption>
