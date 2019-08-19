@@ -15,7 +15,7 @@ Some amazing people I met in Turing. :)
 Bo Wang is a visiting researcher at Turing and work with Professor Terry Lyons based at Oxford. 
 I knew him because he is one of the organizers for Data science for mental health, an interest group aiming
 to lead to suitable clinical interventions for mental health by using multi-modal data. Bo is interested in 
-developing clinically useful application for mental health by his expert in deep learning, also he’s working 
+developing a clinically useful application for mental health through his expert in deep learning. He’s also working 
 on some other projects. One project he’s working on is to analyze speech signals of individuals with mental 
 disorders and try to help early identify clinical high risk individuals and aid the diagnose processing in 
 psychiatry. He believe the key of such success could benefit more from novel methods integrated with prior 
