@@ -36,7 +36,7 @@ network to index maturity in my project, which is very useful.
 
 Anujan Poologaindran was a neurosurgeon in Canada and worked on a magic surgery for treatment-resistant depression 
 patients. His work is very meaningful and helps many depressive patients to start a new life without the risk of 
-suicide. However, some of the patients tend to responde more to this surgery, which motiviated Anujan to further 
+suicide. However, some of the patients tend to respond more to this surgery, which motiviated Anujan to further 
 investigate this heterogeneity and thus pursue a PhD degree at University of Cambridge. He's project here is pretty 
 cool and aims to identify some depression patients who could be most likely to respond for this surgery and find the 
 optimal surgery target for each individual, which involving neurosurgery, neuroimaging and machine learning. He also 
