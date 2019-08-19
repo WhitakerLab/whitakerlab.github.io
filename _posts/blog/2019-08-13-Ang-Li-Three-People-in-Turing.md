@@ -24,7 +24,7 @@ with establishing the azure server and applying for credits, which is crucial fo
 come back to China one day and It would be exciting if I can collaborate with him on some project in the future. 
 
 ## Alex Campbell
-Alex Campbell is an enrichment student at Turing and a PhD candidate at University of Cambridge. During Master 
+Alex Campbell is an enrichment student at Turing and a PhD candidate at University of Cambridge. During his Master's 
 period, Alex used deep learning technology in financial data mining and then he switched his main interest to
 brain science and mental disorder. Kirstie introduced Alex to me as he is also worked on projects using neuroimaging 
 data. One of his interests is to apply advanced AI models to data of human brain. Alex shared his recent work with me, 
