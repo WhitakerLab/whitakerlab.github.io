@@ -8,12 +8,12 @@ share: true
 author: Ang Li
 ---
 
-Some amazing people I met in Turing. :)
+Some amazing people I met at the Turing. :)
 
 ## Bo Wang
 
-Bo Wang is a visiting researcher at Turing and work with Professor Terry Lyons based at Oxford. 
-I knew him because he is one of the organizers for Data science for mental health, an interest group aiming
+Bo Wang is a visiting researcher at the Turing and work with Professor Terry Lyons based at Oxford. 
+I know him because he is one of the organizers for Data science for mental health, an interest group aiming
 to lead to suitable clinical interventions for mental health by using multi-modal data. Bo is interested in 
 developing a clinically useful application for mental health through his expert in deep learning. He’s also working 
 on some other projects. One project he’s working on is to analyze speech signals of individuals with mental 
@@ -24,8 +24,7 @@ with establishing the azure server and applying for credits, which is crucial fo
 come back to China one day and it would be exciting if I can collaborate with him on some project in the future. 
 
 ## Alex Campbell
-Alex Campbell is an enrichment student at Turing and a PhD candidate at University of Cambridge. During his Master's 
-period, Alex used deep learning technology in financial data mining and then he switched his main interest to
+Alex Campbell is an enrichment student at the Turing and a PhD candidate at the University of Cambridge. During his Masters, Alex used deep learning technology in financial data mining and then he switched his main interest to
 brain science and mental disorders. Kirstie introduced Alex to me as he is also worked on projects using neuroimaging 
 data. One of his interests is to apply advanced AI models to data on human brains. Alex shared his recent work with me, 
 where he used a sophisticated machine learning model on a large-sample fMRI dataset to derive pathological brain circuits 
