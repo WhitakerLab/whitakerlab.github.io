@@ -50,4 +50,4 @@ This gene is called the MC4R.It could protect people from being overweight.
 MC4R could act as a "switch" in the brain that tells us not to eat after a meal.
 Meanwhile, mutations in the MC4R gene, which is associated with a higher risk of obesity, can cause MC4R to stop working.
 The research has been watched by drug companies who believe the genetic variation could help people achieve or maintain weight loss.
-Chen said she love working at Turing.She is very excited to get access to a lot of latest knowledge of artificial intelligence here.
+Chen said she loves working at Turing. She is very excited to get access to a lot of the latest knowledge of artificial intelligence here.
