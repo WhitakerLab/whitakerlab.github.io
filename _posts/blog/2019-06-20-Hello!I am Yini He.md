@@ -57,7 +57,7 @@ At the same time, I am interested in all kinds of traditional Chinese culture, w
 
 <figure>
   <img src="/images/YiniHe/3qipao5.jpg">
-  <figcaption> One of the most beautiful nouns in the world is culture(photo by Yini) </figcaption>
+  <figcaption> One of the most beautiful nouns in the world is culture (photo by Yini) </figcaption>
 </figure>
 
 ## Life and work goals
