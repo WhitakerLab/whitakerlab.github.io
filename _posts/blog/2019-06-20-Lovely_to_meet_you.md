@@ -35,7 +35,7 @@ Her research interests also include open source working and building a fine-grai
 Georgia told me that she is really enjoying her research.
 Because it’s amazing to have this opportunity to immerse herself in the Turing’s collective expertise. 
 There are lots of avenues of growth which are possible from for current work, including developing skills in open source, programming languages, and the philosophy of technology/ethics. 
-She also told me some impressive experiences in Turing! (It is also impressive for me to make friend with Geogia!)
+She also told me some impressive experiences in Turing! (It is also impressive making friends with Georgia!)
 In the field of autism research, there has been a shift in the way that autism is spoken about and analysed and understood. 
 One example of this is a movement away from the trope of ‘defect’ to one of autistic pride, accomplishment, and the value of neurodiversity. 
 
