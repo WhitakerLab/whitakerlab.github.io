@@ -18,7 +18,7 @@ Now, I would like to introduce 3 people who I interviewed them. I love their gre
 ## Ryan Chan
 
 Ryan is a first-year doctoral student at the Alan Turing Institute and Warwick. 
-His smile is full of energy. 
+His smile carries a very powerful energy.
 He loved and studied mathematics at the University of Leeds, where he developed a keen interest in Bayesian theory and computational statistics. 
 His current research interest is broadly concerned with addressing practical constraints of common Monte Carlo algorithms. 
 In particular, Ryan’s research focuses on Monte Carlo Fusion, which aims to tackle the problem of unifying distributed analyses and inferences from multiple sources on shared parameters, into a single coherent inference. 
