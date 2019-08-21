@@ -32,7 +32,7 @@ Now,She is currently working with Kirstie to design and build a citizen science 
 This will be used to investigate sensory processing and navigating environments, but it can also be adapted to answer other research questions. 
 She is co-designing an ethical framework to go along with the platform, based on methods of participatory science. 
 Her research interests also include open source working and building a fine-grained consent model, as well as the psychology of interactions with technology, for example how to share data online.
-Georgia told me that she is really enjoying her research.
+Georgia told me that she is really enjoying her research, 
 Because it’s amazing to have this opportunity to immerse herself in the Turing’s collective expertise. 
 There are lots of avenues of growth which are possible from for current work, including developing skills in open source, programming languages, and the philosophy of technology/ethics. 
 She also told me some impressive experiences in Turing! (It is also impressive making friends with Georgia!)
