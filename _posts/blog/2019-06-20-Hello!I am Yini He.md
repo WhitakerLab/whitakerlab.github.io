@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello:)I am Yini He!
+title: Hello :) I am Yini He!
 categories: blog
 excerpt: An introduction to the Whitaker lab's newest member
 image:
