@@ -11,7 +11,7 @@ share: true
 author: Yini He
 ---
 
-So lucky I am to have a great experience studing in the Alan Turing Insititue.
+So lucky I am to have a great experience studying in the Alan Turing Institue.
 I feel happy to know many people here,because all of them are zealous,creative and willing to help each other.
 Now,I would like introduce 3 people who I interviewed them.I love their great works.
 
