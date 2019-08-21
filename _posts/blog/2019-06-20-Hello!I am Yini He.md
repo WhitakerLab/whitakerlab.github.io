@@ -82,7 +82,7 @@ Ever since then, I’ve always thought about these teenagers and hoped that they
 
 +Look at the fun of work, so we have fun every day(快乐生活，快乐工作)
 
-Ever since my experience as an intern at the school for special children, I have been concerned about susceptibility to mental illness.  
+Ever since my experience as an intern at the school for special children, I have been concerned about susceptibility to mental health disorders.  
 My major was modified to Neuroimaging.  
 The brilliance of how the brain works totally amazed me. 
 I became very interested in regions of the brain and the connectivity and the fiber bundle of the brain where the source for the link between human behavior and emotion could be found and studied.
