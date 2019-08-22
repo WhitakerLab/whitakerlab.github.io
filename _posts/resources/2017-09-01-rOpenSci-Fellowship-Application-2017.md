@@ -11,7 +11,7 @@ share: true
 
 On this page you can find the answers submitted as my application to the [rOpenSci fellowships program](https://ropensci.org/blog/blog/2017/07/06/ropensci-fellowships) in 2017.
 
-The application was submitted on September 1st at 10:48pm. (Over nine hours before the deadline :wink:). It was required to fit on a maximum of 3 A4 pages. You can download the PDF [here](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/FUNDING_APPLICATIONS/Whitaker_rOpenSciFellowshipProposal.pdf).
+The application was submitted on September 1st at 10:48pm. (Over nine hours before the deadline 😉). It was required to fit on a maximum of 3 A4 pages. You can download the PDF [here](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/FUNDING_APPLICATIONS/Whitaker_rOpenSciFellowshipProposal.pdf).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
 
@@ -56,14 +56,17 @@ We will provide getting-started resources and trainings for version control with
 The most important step in our plan is to see what already exists, what needs to be curated and if there are already tools that would do the job. We will focus on collecting information around:
 
 * What tools already exist?
-*	What are researchers in the Turing using?
+* What are researchers in the Turing using?
 * What resources would best serve Turing researchers?
 * Can we contribute to existing projects to make them even better?
 * Do we need to create any new software?
 
 #### Turing Reproducibility Champions
 
-The Turing reproducibility champions program will highlight 4-5 examples of research currently being conducted at the Turing. Specifically, we will ask researchers who are already working reproducibly to work with us to develop case studies. For example, the work that Tomas Petricek and May Yong recently showcased on [Accounting for Democracy](http://gamma.turing.ac.uk/expenditure/). We will work with project leaders to ensure others (both within the Turing and  externally) are able to access the research code and data, and work with the Turing communications team to promote these examples widely. The reproducibility champions will inspire their colleagues to adopt more reproducible practises and will allow us to refine a protocol for best supporting researchers as they publish their work.
+The Turing reproducibility champions program will highlight 4-5 examples of research currently being conducted at the Turing. Specifically, we will ask researchers who are already working reproducibly to work with us to develop case studies. For example, the work that Tomas Petricek and May Yong recently showcased on Accounting for Democracy\*. We will work with project leaders to ensure others (both within the Turing and  externally) are able to access the research code and data, and work with the Turing communications team to promote these examples widely. The reproducibility champions will inspire their colleagues to adopt more reproducible practises and will allow us to refine a protocol for best supporting researchers as they publish their work.
+
+\* *This app is no longer online.*
+*Resource page updated in July 2019.*
 
 ### Budget
 
