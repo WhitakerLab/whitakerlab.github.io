@@ -6,7 +6,7 @@ excerpt: Final report for work on the scona project during GSoC 2019
 image:
   feature:
 link:
-date: 2019-08-14
+date: 2019-08-20
 modified:
 share: true
 author: ruslan_yermakov
@@ -45,7 +45,7 @@ Here are the links to my merged **Pull Requests** that cover all the work:
 1. [Implementation of visualisation tools #121](https://github.com/WhitakerLab/scona/pull/121)
 2. [Implementation of anatomical network visualisations #140](https://github.com/WhitakerLab/scona/pull/140)
 3. [Add nilearn plotting functionality to `scona` #145](https://github.com/WhitakerLab/scona/pull/145)
-4. [!!!TODO!!! - open new one here new opened]()
+4. [Add enhancements to the scona #151](https://github.com/WhitakerLab/scona/pull/151)
 
 <figure class="half">
   <img src="/images/Ruslan-GSoC/2pic.png" alt="Plot of anatomical network in coronal orientation">
