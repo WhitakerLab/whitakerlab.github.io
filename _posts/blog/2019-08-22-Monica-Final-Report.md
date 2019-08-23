@@ -7,6 +7,7 @@ image:
   feature:
 link:
 date: 2019-08-22
+tags: [gsoc, tedana]
 modified:
 share: true
 author: monicayao
