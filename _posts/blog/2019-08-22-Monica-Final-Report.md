@@ -6,7 +6,7 @@ excerpt: Final report for work on the tedana project during GSoC 2019
 image:
   feature:
 link:
-date: 2019-08-14
+date: 2019-08-22
 modified:
 share: true
 author: monicayao
