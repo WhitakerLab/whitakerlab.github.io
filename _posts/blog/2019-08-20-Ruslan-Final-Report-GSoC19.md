@@ -6,7 +6,8 @@ excerpt: Final report for work on the scona project during GSoC 2019
 image:
   feature:
 link:
-date: 2019-08-20
+date: 2019-08-23
+tags: [gsoc, scona]
 modified:
 share: true
 author: ruslan_yermakov
