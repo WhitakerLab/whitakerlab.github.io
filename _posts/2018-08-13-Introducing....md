@@ -3,7 +3,7 @@ layout: post
 title: ### Introducing...
 categories: blog
 excerpt: Blog introducing three people from Kirstie's lab 
-tags: [] ### INSERT TAGS IF APPLICABLE
+tags: [turing-institute, onboarding]
 image:
   feature:
 link: 
