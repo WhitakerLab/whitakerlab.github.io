@@ -81,7 +81,7 @@ He is very interested in the biology of the brain.
 
 Ang is interested in mental disorders, especially schizophrenia, and developing clinically useful biomarkers to help psychiatrists by using genomic or neuroimaging data. 
 Ang would also like to use genomic data to understand the pathology of schizophrenia. 
-The pathology itself is complex, but it is a very important area to understand, and many answers emerge from examining the genome. 
+The pathology itself is complex, but it is a very important area to understand given there's no cure for this disease, and many answers emerge from examining the genome. 
 The other part of Ang’s research is about understanding the concept of human consciousness. 
 Ang is also interested in neurodevelopment, using neuroimaging data to help understand the emergence and pathologies of some mental disorders– this could be used to predict why adolescents might have mental health challenges.
 
