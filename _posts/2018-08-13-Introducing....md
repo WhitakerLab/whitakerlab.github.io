@@ -2,7 +2,7 @@
 layout: post
 title: ### Introducing...
 categories: blog
-excerpt: ### blog introducing three people from Kirstie's lab 
+excerpt: Blog introducing three people from Kirstie's lab 
 tags: [] ### INSERT TAGS IF APPLICABLE
 image:
   feature:
