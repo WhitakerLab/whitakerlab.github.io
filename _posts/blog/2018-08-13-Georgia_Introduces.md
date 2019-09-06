@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ### Introducing...
+title: Georgia Introduces
 categories: blog
 excerpt: Blog introducing three people from Kirstie's lab 
 tags: [turing-institute, onboarding]
@@ -13,13 +13,13 @@ share: true
 author: GeorgiaHCA ###
 ---
 
-:tada: :star2: :rocket: Introducing three of my stellar Turing colleagues... 
+🎉 🌟 🚀  As a new Turingite I'm delighted to discover so many interesting people doing exciting work. So I'd like to introduce three of my stellar Turing colleagues... 
 
-## :star: Sarah Gibson :star: 
+## ⭐️ Sarah Gibson ⭐️ 
 
 #### "Tell me about your background"
 
-For her PhD in Astrophysics, Sarah worked on a NASA (:heart_eyes:!!) project called Swift hunting down gamma ray bursts. 
+For her PhD in Astrophysics, Sarah worked on a NASA (🤩!!) project called Swift hunting down gamma ray bursts. 
 Gamma ray bursts are very brief flashes of high energy radiation, and it’s difficult to predict when and where they will go off. 
 
 Gamma ray bursts form in two ways: when young massive stars go supernova, or two neutron stars merge together. 
@@ -65,7 +65,7 @@ It’s a really supportive environment, and the ethos is much more about collabo
 People are not too possessive over their work. 
 It’s nice to be able to share knowledge and get to a good solution together.”
 
-## :star: Ang Li :star: 
+## ⭐️ Ang Li ⭐️
 
 #### “Tell me about your background”
 
@@ -97,7 +97,7 @@ And it could be useful to cooperate by linking their ideas closely along with so
 “I love the working environment of the Turing, it’s different from my Chinese lab and I have more free space – I can work in a different place every day. 
 Also, the Turing has the great advantage that we can meet people with diverse backgrounds and fields.”
 
-## :star: Yini He :star: 
+## ⭐️ Yini He ⭐️
 
 #### “Tell me about your background” 
 
@@ -137,6 +137,6 @@ For Yini, teamwork is very important, and at the Turing she can find good team m
 
 ### <em> Fun Extra Fact </em> 
 
-<em> I found out that Yini and I share a nickname – her friends call her the same Chinese name I was given when I worked in Beijing – Hwa Hwa – which means flower! So we have a special connection. </em> :cherry_blossom::cherry_blossom:
+<em> I found out that Yini and I share a nickname – her friends call her the same Chinese name I was given when I worked in Beijing – Hwa Hwa – which means flower! So we have a special connection. </em> 🌸🌸
 
-:octocat: Superstellar thank you to Sarah, Ang, and Yini for giving me their time and patiently answering my questions. I'm so excited to be working with you all! :octocat:
+:octocat: Superstellar thank you to Sarah, Ang, and Yini for giving me their time and patiently answering my questions. I'm so excited to be working with you all! :octocat: 
