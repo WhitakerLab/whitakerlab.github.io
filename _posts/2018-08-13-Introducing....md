@@ -79,7 +79,7 @@ He is very interested in the biology of the brain.
 
 #### “Tell me about your research at the Turing”
 
-Ang is interested in mental disorders, especially schizophrenia, and developing clinically useful biomarkers to help psychiatrists by using genomic or neuroimaging data. 
+Ang is interested in mental disorders, especially schizophrenia, and he is trying to develop clinically useful biomarkers to help psychiatrists based on neuroimaging or genome data. 
 Ang would also like to use genomic data to understand the pathology of schizophrenia. 
 The pathology itself is complex, but it is a very important area to understand given there's no cure for this disease, and many answers emerge from examining the genome. 
 The other part of Ang’s research is about understanding the concept of human consciousness. 
