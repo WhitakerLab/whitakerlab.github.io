@@ -89,7 +89,7 @@ Ang is also interested in neurodevelopment, using neuroimaging data to help unde
 
 Ang would like to learn about reproducible research from Kirstie. His area normally deals with many different types of data, for instance genome data, gene expression and MRI (magnetic resonance imaging) data. 
 As the real real-world questions, especially in brain science, are always complex, expertise from a lot of different domains is required to answer them: psychology, psychiatry, genomic science, mathematics and even physics. 
-Ang believes that a diverse community of people from different specialisms is a necessary to answer some important scientific question. 
+Ang believes that a diverse community of people from different specialisms is necessary to answer some important scientific questions. 
 And it could be useful to cooperate by linking their ideas closely along with some uniform code.
 
 #### “How are you finding the Turing?”
