@@ -61,4 +61,4 @@ Useful links:
 * [Brain Networks in Python mini grant proposal](https://whitakerlab.github.io/resources/Mozilla-Science-Mini-Grant-June2017/)
 * [Mozilla Open Leaders home page](https://mozilla.github.io/leadership-training/)  
 * [Mozilla Open Leaders application form](https://docs.google.com/forms/d/e/1FAIpQLSfXMe7ekCA18q7-Wxtp4HrSgYlwzhtdO3v0sBg0SpWX77_Sng/viewform)
-* [Mozilla Science mini grant request for proposals](https://science.mozilla.org/blog/2018-mini-grant-rfp)
+* [Mozilla Science mini grant request for proposals](https://blog.mozilla.org/foundation-archive/mozilla-science/2018b_minigrantrfp/)
