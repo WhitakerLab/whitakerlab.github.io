@@ -11,7 +11,7 @@ share: true
 
 On this page you can find the answers submitted as my application to the [rOpenSci fellowships program](https://ropensci.org/blog/blog/2017/07/06/ropensci-fellowships) in 2017.
 
-The application was submitted on September 1st at 10:48pm. (Over nine hours before the deadline 😉). It was required to fit on a maximum of 3 A4 pages. You can download the PDF [here](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/FUNDING_APPLICATIONS/Whitaker_rOpenSciFellowshipProposal.pdf).
+The application was submitted on September 1st at 10:48pm. (Over nine hours before the deadline 😉). It was required to fit on a maximum of 3 A4 pages. You can download the PDF [here](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/funding-applications/Whitaker_rOpenSciFellowshipProposal.pdf).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
 

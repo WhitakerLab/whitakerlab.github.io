@@ -35,7 +35,7 @@ Howard, D. M., Adams, M. J., Shirali, M., Clarke, T.-K., Marioni, R. E., Davies,
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New depression <a href="https://twitter.com/hashtag/GWAS?src=hash">#GWAS</a> associations from <a href="https://twitter.com/uk_biobank">@uk_biobank</a> data with enrichment of variants in excitatory synaptic pathways <a href="https://t.co/KR2P1RNQFr">https://t.co/KR2P1RNQFr</a> <a href="https://t.co/a0XeMaYCjz">pic.twitter.com/a0XeMaYCjz</a></p>&mdash; Cathryn Lewis (@cathrynlewis) <a href="https://twitter.com/cathrynlewis/status/890492323574034432">July 27, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-While I'm here talking about UK Biobank I want to share this resource: [https://biobankengine.stanford.edu](https://biobankengine.stanford.edu/search). I haven't explored it much, but it seems pretty fantastic!
+While I'm here talking about UK Biobank I want to share this resource: [https://biobankengine.stanford.edu](https://biobankengine.stanford.edu). I haven't explored it much, but it seems pretty fantastic!
 
 *Tweet deleted.*
 *Blog post updated to remove the link in July 2019.*
