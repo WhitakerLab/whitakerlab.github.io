@@ -45,7 +45,7 @@ If it is useful, check out the [application](https://whitakerlab.github.io/resou
 
 One of the goals of the mini grant was to add in tests to the code. I'm so proud of the [green Travis build status](https://travis-ci.org/WhitakerLab/BrainNetworksInPython) badge that appears on the [Brain Networks in Python](https://github.com/WhitakerLab/BrainNetworksInPython) GitHub page now. Thank you to [all our contributors](https://labhr.github.io/hatrack/#repo=WhitakerLab/BrainNetworksInPython) for making that happen!
 
-> You can [apply for a Mozilla Mini grant](https://science.mozilla.org/blog/2018-mini-grant-rfp) before **11:59EDT on 17th December 2017**.
+> You can [apply for a Mozilla Mini grant](https://blog.mozilla.org/foundation-archive/mozilla-science/2018b_minigrantrfp/) before **11:59EDT on 17th December 2017**.
 
 I'll finish with a photo of the Brain Networks in Python MozFest session (where I used some pink wool - as edges - and our participants - as nodes - to build an in person network), and a thank you to all the folks at Mozilla who made this possible: Abby, Tim, Chris, Aurelia, Steph and many more ✨
 

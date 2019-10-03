@@ -18,7 +18,7 @@ Kirstie is particularly passionate about ensuring that work is reproducible and 
 Dr Whitaker is a Fulbright scholarship alumna and was a 2016/17 Mozilla Fellow for Science. She will be the chair of the Organization for Human Brain Mapping's Open Science special interest group in 2019 and is currently serving as chair-elect. Kirstie was named, with her collaborator Petra Vertes, as a 2016 Global Thinker by Foreign Policy magazine.
 
 __More information:__
-* CV: [Whitaker_CV.pdf](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Kirstie-Whitaker/Whitaker_CV.pdf)
+* CV: [Whitaker_CV.pdf](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Kirstie-Whitaker/Whitaker_CV.pdf)
 * GitHub: [@KirstieJane](https://github.com/KirstieJane)
 * Twitter: [@kirstie_j](https://twitter.com/kirstie_j)
 * Email: [kw401@cam.ac.uk](mailto:kw401@cam.ac.uk) or [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) (both work equally well)
