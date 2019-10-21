@@ -17,7 +17,7 @@ author: ruslan_yermakov
 
 > **Student**: Ruslan Yermakov <br>
 > **Mentor**: Dr Kirstie Whitaker <br>
-> **Organization**: [INCF](https://www.incf.org/gsoc2019/projectlist) <br>
+> **Organization**: [INCF](https://summerofcode.withgoogle.com/archive/2019/organizations/5347624150892544/) <br>
 > **Project**: Open-source project [**scona**](https://github.com/WhitakerLab/scona) - a toolkit to perform brain network analyses <br>
 > **Project's goal**: Producing publication-ready brain network analysis results and visualisations from the command line
 
