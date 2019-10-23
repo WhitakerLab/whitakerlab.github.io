@@ -2,7 +2,7 @@
 
 title: Whitaker Lab
 locale: en_US
-description: Updates from Kirstie's lab at the Turing Institute.
+description: Updates from Kirstie's research group.
 logo: site-logo.png
 search: true
 url: https://whitakerlab.github.io
@@ -15,7 +15,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
