@@ -16,5 +16,5 @@ I ([Kirstie](https://github.com/KirstieJane)) find myself googling for the follo
       Specifically I want the following command from [step 4](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-4-build-your-local-jekyll-site) which builds the website locally<br/>
       
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ``` 

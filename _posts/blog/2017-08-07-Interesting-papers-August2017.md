@@ -15,7 +15,7 @@ author: kirstie_whitaker
 
 In the Bullmore lab meetings recently I've mentioned a few papers that I'd seen on twitter and I promised to email them around. Here is that email (but as a blog post for posterity!)
 
-Please note that these are absolutely *not* the only papers I've thought were interesting, just a non-random selection that I think others may want to know about :smile:
+Please note that these are absolutely *not* the only papers I've thought were interesting, just a non-random selection that I think others may want to know about ☺️
 
 ### Genetic analyses of depression
 
@@ -35,10 +35,10 @@ Howard, D. M., Adams, M. J., Shirali, M., Clarke, T.-K., Marioni, R. E., Davies,
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New depression <a href="https://twitter.com/hashtag/GWAS?src=hash">#GWAS</a> associations from <a href="https://twitter.com/uk_biobank">@uk_biobank</a> data with enrichment of variants in excitatory synaptic pathways <a href="https://t.co/KR2P1RNQFr">https://t.co/KR2P1RNQFr</a> <a href="https://t.co/a0XeMaYCjz">pic.twitter.com/a0XeMaYCjz</a></p>&mdash; Cathryn Lewis (@cathrynlewis) <a href="https://twitter.com/cathrynlewis/status/890492323574034432">July 27, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-While I'm here talking about UK Biobank I want to share this resource: [https://biobankengine.stanford.edu](https://biobankengine.stanford.edu/search). I haven't explored it much, but it seems pretty fantastic!
+While I'm here talking about UK Biobank I want to share this resource: [https://biobankengine.stanford.edu](https://biobankengine.stanford.edu). I haven't explored it much, but it seems pretty fantastic!
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thrilled to release the first 500k UK <a href="https://twitter.com/uk_biobank">@uk_biobank</a> update to Global Biobank Engine from the Rivas Lab: <a href="https://t.co/a7XIdaM6sz">https://t.co/a7XIdaM6sz</a> <a href="https://t.co/x7lrrhjhVL">pic.twitter.com/x7lrrhjhVL</a></p>&mdash; Manuel Rivas (@manuelrivascruz) <a href="https://twitter.com/manuelrivascruz/status/893646060588998656">August 5, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+*Tweet deleted.*
+*Blog post updated to remove the link in July 2019.*
 
 ### Problems with candidate gene lists for Schizophrenia
 
@@ -59,7 +59,7 @@ I'm a big fan of glial cells (particularly oligodendrocytes) so I wanted to like
 
 Windrem, M. S., Osipovitch, M., Liu, Z., Bates, J., Chandler-Militello, D., Zou, L., … Goldman, S. A. (2017). Human iPSC Glial Mouse Chimeras Reveal Glial Contributions to Schizophrenia. Cell Stem Cell, 21(2), 195–208.e6. [https://doi.org/10.1016/j.stem.2017.06.012](https://doi.org/10.1016/j.stem.2017.06.012)
 
-But I can't like it because I can't download it! Gaaaaah! If someone finds the PDF please do share it back with me :unamused:.
+But I can't like it because I can't download it! Gaaaaah! If someone finds the PDF please do share it back with me 😒.
 
 There is a nice [STAT](https://www.statnews.com/2017/07/20/schizophrenia-chimeras/) write up though, which gives an overview.
 

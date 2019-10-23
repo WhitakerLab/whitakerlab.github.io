@@ -6,7 +6,7 @@ excerpt: How I got to be a 2016/17 mozilla fellow for science
 tags: [mozilla, mozfellows, applications]
 image:
   feature:
-link: https://science.mozilla.org/blog/kirsties-mozilla-fellowship-journey/
+link: https://blog.mozilla.org/foundation-archive/mozilla-science/kirsties-mozilla-fellowship-journey/
 date: 2017-05-08
 modified:
 share: true
@@ -14,9 +14,9 @@ share: true
 
 ## My Mozilla Fellowship journey
 
-I wrote a [blog post](https://science.mozilla.org/blog/kirsties-mozilla-fellowship-journey/) for the Mozilla Science Lab to encourage everyone to [apply for the 2017 Mozilla fellows for science](https://science.mozilla.org/programs/fellowships) cohort.
+I wrote a [blog post](https://blog.mozilla.org/foundation-archive/mozilla-science/kirsties-mozilla-fellowship-journey/) for the Mozilla Science Lab to encourage everyone to [apply for the 2017 Mozilla fellows for science](https://science.mozilla.org/programs/fellowships) cohort.
 
-You can check out the whole post at the [Mozilla Science Lab blog](https://science.mozilla.org/blog/kirsties-mozilla-fellowship-journey/) but here are a couple of key links.
+You can check out the whole post at the [Mozilla Science Lab blog](https://blog.mozilla.org/foundation-archive/mozilla-science/kirsties-mozilla-fellowship-journey/) but here are a couple of key links.
 
 I've put my applications online in the resources section of this website if you want to see what I wrote:
   * My unsuccessful [2015 application](https://whitakerlab.github.io/resources/Mozilla-Science-Fellowship-Application-2015/)

@@ -60,7 +60,11 @@ The Brain Networks in Python project provides open source, documented, tested an
 
 I will be mentored by Dr Kirstie Whitaker. Kirstie is a research fellow at the Turing Institute and outgoing Mozilla Fellow for Science. She is a neuroscientist who studies brain development, using graph theory to understand the brain as a network. Dr Whitaker is a two time mentor for the Mozilla Open Leadership Training Series and she has extensive skills in nurturing and supporting open projects. The Brain Networks in Python is built within the Whitaker Lab GitHub repository where Dr Whitaker is an active contributor. She will review all code and documentation and provide guidance to ensure the Brain Networks In Python project is accessible and usable for all.
 
-I will also work with the research software engineering team at the Alan Turing Institute. The team is lead by Dr James Heatherington who has worked for 5 years as the head of Research Software Development at University College London. In his words: "Well written, readable software, written for humans to read as well as computers to execute, forms an important part of research communications and can deliver significant research impact." ([http://www.ucl.ac.uk/research-it-services/people/james](http://www.ucl.ac.uk/research-it-services/people/james))
+I will also work with the research software engineering team at the Alan Turing Institute. The team is lead by Dr James Hetherington who has worked for 5 years as the head of Research Software Development at University College London. In his words: "Well written, readable software, written for humans to read as well as computers to execute, forms an important part of research communications and can deliver significant research impact." (http://www.ucl.ac.uk/research-it-services/people/james)
+
+*Link no longer resolves.*
+*James Hetherington is now Director of Research Engineering at the Turing.*
+*[https://www.turing.ac.uk/people/programme-directors/james-hetherington](https://www.turing.ac.uk/people/programme-directors/james-hetherington)*
 
 **On which Internet health issue(s) does your proposal focus?**
 
@@ -150,7 +154,7 @@ One of the greatest challenges for the project is that of finding time to build 
 
 The project is a continuation of the work that Dr Kirstie Whitaker published in 2016 ([Whitaker\*, Vertes\* et al, 2016](http://dx.doi.org/10.1073/pnas.1601745113)). The code is openly available on GitHub ([https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016](https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016)). For this work, Dr Whitaker and her collaborator Petra Vertes were named as [2016 Global Thinkers](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
-Dr Whitaker's CV is available at our lab GitHub repository: [https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Kirstie-Whitaker/Whitaker_CV.pdf](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Kirstie-Whitaker/Whitaker_CV.pdf)
+Dr Whitaker's CV is available at our lab GitHub repository: [https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Kirstie-Whitaker/Whitaker_CV.pdf](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Kirstie-Whitaker/Whitaker_CV.pdf)
 
 I am a research assistant in the Whitaker Lab at the Alan Turing Institute. I have a BSc in Mathematics from the University of Cambridge which included specialised training in graph theory and topological analysis.
 
@@ -165,7 +169,7 @@ The Brain Networks in Python project is hosted on GitHub: [https://github.com/Wh
 
 We follow the Mozilla open leadership training best practice principles ([https://mozilla.github.io/open-leadership-training-series](https://mozilla.github.io/open-leadership-training-series/)). The Brain Networks in Python project has a README file, a code of conduct and a guide for contributors.
 
-Within the Whitaker Lab we work as openly as possible. All the weekly meetings I have with Dr Whitaker are available ([https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md)). We are dedicated to sharing work in progress so that others can provide help and feedback. In my first week as a member of the Whitaker Lab Icontributed to the Whitaker Lab blog ([https://whitakerlab.github.io/blog/Hello-Earthling](https://whitakerlab.github.io/blog/Hello-Earthling/)) and I am greatly looking forward to the opportunity to engage further with the brain networks community through social media and further blog posts.
+Within the Whitaker Lab we work as openly as possible. All the weekly meetings I have with Dr Whitaker are available ([https://github.com/WhitakerLab/WhitakerLabProjectManagement/tree/master/weekly-updates/alumni/Isla-Staden/Weekly-Meetings.md](https://github.com/WhitakerLab/WhitakerLabProjectManagement/tree/master/weekly-updates/alumni/Isla-Staden/Weekly-Meetings.md)). We are dedicated to sharing work in progress so that others can provide help and feedback. In my first week as a member of the Whitaker Lab I contributed to the Whitaker Lab blog ([https://whitakerlab.github.io/blog/Hello-Earthling](https://whitakerlab.github.io/blog/Hello-Earthling/)) and I am greatly looking forward to the opportunity to engage further with the brain networks community through social media and further blog posts.
 
 
 **How will you continue work on this project beyond the funding period?** *(250 words)*

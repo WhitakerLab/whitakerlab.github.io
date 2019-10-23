@@ -27,7 +27,7 @@ I wasn't sure when I sent my application in what open leadership training meant.
 
 The Open Leadership's medium is weekly videocalls, alternating between the cohort call (~30 people) and 1:1 calls with your assigned mentor. The cohort calls are usually low pressure and they focus on skills, practical advice and encouragement. For the nervous, I want to highlight that I never felt like me or my project were on trial.
 
-I can't speak for anyone else's 1:1 calls but in mine I would catch up with my mentor [Tim Head](https://github.com/betatim), describe whatever problems I'd been having, mention my successes and he would offer relevant advice. Pretty good :+1:, thank you Tim!
+I can't speak for anyone else's 1:1 calls but in mine I would catch up with my mentor [Tim Head](https://github.com/betatim), describe whatever problems I'd been having, mention my successes and he would offer relevant advice. Pretty good 👍, thank you Tim!
 
 > You can [apply to be part of the fifth Open Leadership Training cohort](https://docs.google.com/forms/d/e/1FAIpQLSfXMe7ekCA18q7-Wxtp4HrSgYlwzhtdO3v0sBg0SpWX77_Sng/viewform) before **11:59EDT on 15th December 2017**.
 
@@ -41,13 +41,13 @@ I can't speak for anyone else's 1:1 calls but in mine I would catch up with my m
 
 I don't need to propound the value of money to anyone, but refactoring Brain Networks in Python is a project I couldn't afford to work on in this way otherwise. If you have an open scientific project that deserves your attention but you can't buy the time, the Mozilla Science Lab mini grant might be your champion.
 
-If it is useful, check out the [application](https://whitakerlab.github.io/resources/Mozilla-Science-Mini-Grant-June2017/) that [Kirstie Whitaker](https://github.com/kirstiejane) and I wrote for Brain Networks in Python. It isn't a huge amount of money, but for me it was so valuable to have two months of protected time to work on something I wanted to make more reusable. As Kirstie says, **we want to make the code "useful for people who aren't called Kirstie"** :joy:.
+If it is useful, check out the [application](https://whitakerlab.github.io/resources/Mozilla-Science-Mini-Grant-June2017/) that [Kirstie Whitaker](https://github.com/kirstiejane) and I wrote for Brain Networks in Python. It isn't a huge amount of money, but for me it was so valuable to have two months of protected time to work on something I wanted to make more reusable. As Kirstie says, **we want to make the code "useful for people who aren't called Kirstie"** 😂.
 
 One of the goals of the mini grant was to add in tests to the code. I'm so proud of the [green Travis build status](https://travis-ci.org/WhitakerLab/BrainNetworksInPython) badge that appears on the [Brain Networks in Python](https://github.com/WhitakerLab/BrainNetworksInPython) GitHub page now. Thank you to [all our contributors](https://labhr.github.io/hatrack/#repo=WhitakerLab/BrainNetworksInPython) for making that happen!
 
-> You can [apply for a Mozilla Mini grant](https://science.mozilla.org/blog/2018-mini-grant-rfp) before **11:59EDT on 17th December 2017**.
+> You can [apply for a Mozilla Mini grant](https://blog.mozilla.org/foundation-archive/mozilla-science/2018b_minigrantrfp/) before **11:59EDT on 17th December 2017**.
 
-I'll finish with a photo of the Brain Networks in Python MozFest session (where I used some pink wool - as edges - and our participants - as nodes - to build an in person network), and a thank you to all the folks at Mozilla who made this possible: Abby, Tim, Chris, Aurelia, Steph and many more :sparkles:
+I'll finish with a photo of the Brain Networks in Python MozFest session (where I used some pink wool - as edges - and our participants - as nodes - to build an in person network), and a thank you to all the folks at Mozilla who made this possible: Abby, Tim, Chris, Aurelia, Steph and many more ✨
 
 <figure>
   <img src="/images/mozfest-networks.jpg"
@@ -61,4 +61,4 @@ Useful links:
 * [Brain Networks in Python mini grant proposal](https://whitakerlab.github.io/resources/Mozilla-Science-Mini-Grant-June2017/)
 * [Mozilla Open Leaders home page](https://mozilla.github.io/leadership-training/)  
 * [Mozilla Open Leaders application form](https://docs.google.com/forms/d/e/1FAIpQLSfXMe7ekCA18q7-Wxtp4HrSgYlwzhtdO3v0sBg0SpWX77_Sng/viewform)
-* [Mozilla Science mini grant request for proposals](https://science.mozilla.org/blog/2018-mini-grant-rfp)
+* [Mozilla Science mini grant request for proposals](https://blog.mozilla.org/foundation-archive/mozilla-science/2018b_minigrantrfp/)

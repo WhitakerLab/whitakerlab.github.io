@@ -4,12 +4,10 @@ title: Who's who in the Whitaker lab
 excerpt: "Members of the Whitaker lab and their research interests."
 ---
 
-## Head honcho: Dr Kirstie Whitaker
+## Dr Kirstie Whitaker
 
-<figure class="half">
-    <img src="/images/KW_OpenCon2016_Square.jpg" alt="Kirstie Whitaker" width="50%">
-    <img src="/images/kirstie-edinburgh-windy.jpg" alt="Kirstie on a windy hill" width="50%">
-</figure>
+<img src="/images/KW_OpenCon2016_Square.jpg" alt="Kirstie Whitaker" width="50%" align="left" hspace="20" vspace="20">
+
 
 Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She joined the Department of Psychiatry at the University of Cambridge in 2012 and conducted her postdoctoral research in the Brain Mapping Unit under the supervision of Professor Ed Bullmore. She remains a member of the department as a senior research associate.
 
@@ -19,8 +17,8 @@ Kirstie is particularly passionate about ensuring that work is reproducible and 
 
 Dr Whitaker is a Fulbright scholarship alumna and was a 2016/17 Mozilla Fellow for Science. She will be the chair of the Organization for Human Brain Mapping's Open Science special interest group in 2019 and is currently serving as chair-elect. Kirstie was named, with her collaborator Petra Vertes, as a 2016 Global Thinker by Foreign Policy magazine.
 
-__More information:__  
-* CV: [Whitaker_CV.pdf](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Kirstie-Whitaker/Whitaker_CV.pdf)
+__More information:__
+* CV: [Whitaker_CV.pdf](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Kirstie-Whitaker/Whitaker_CV.pdf)
 * GitHub: [@KirstieJane](https://github.com/KirstieJane)
 * Twitter: [@kirstie_j](https://twitter.com/kirstie_j)
 * Email: [kw401@cam.ac.uk](mailto:kw401@cam.ac.uk) or [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) (both work equally well)
@@ -29,14 +27,16 @@ __More information:__
 
 ### Isla Staden
 
-<figure class="half">
-    <img src="/images/IS_whitakerblogprofile.jpg" alt="Isla Staden" width="50%">
-    <img src="/images/mozfest-networks.jpg" alt="Isla at MozFest" width="50%">
-</figure>
+<img src="/images/IS_whitakerblogprofile.jpg" alt="Isla Staden" width="40%" align="left" hspace="20" vspace="20">
+
+
+
+
+
 
 Isla Staden is a Research Assistant in the Whitaker Lab, refactoring [Brain Networks In Python](https://github.com/WhitakerLab/BrainNetworksInPython) and curating data in the [Neuroscience in Psychiatry Network](http://www.nspn.org.uk/). She is interested in topology and network science; open source development; open data and reproducible science and finally brains.
 
-__More information:__  
+__More information:__
 * CV: [Isla-Staden-CV.pdf](https://github.com/Islast/WhitakerLabProjectManagement/blob/master/Isla-Staden/Isla-Staden-CV.pdf)
 * GitHub: [@Islast](https://github.com/Islast)
 * Twitter: [@IslaStaden](https://twitter.com/islastaden)
@@ -47,6 +47,6 @@ __More information:__
 
 Jessie Liu is a visiting PhD student in the Whitaker Lab and an enrichment student at the Alan Turing Institute.
 
-__More information:__  
+__More information:__
 * GitHub: [@lzdh](https://github.com/lzdh)
 * Twitter: [@lzdhlzdh](https://twitter.com/lzdhlzdh)
