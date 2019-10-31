@@ -32,7 +32,7 @@ As its title indicates, these two cities have extreme differences, just like a s
 I am happy and passionate at work, and at the same time I enjoy a totally peaceful and quiet life when I'm not working. 
 
 <figure>
-  <img src="/images/YiniHe/1coconut5.jpg">
+  <img alt="" src="/images/YiniHe/1coconut5.jpg" />
   <figcaption> Cold drinks and spicy food are best partners!!!The source of picture is come from internet
   (URL:https://graph.baidu.com/pcpage/similar?originSign=1161a701fa2f38a7470dd01567245048&srcp=crs_pc_similar&tn=pc&idctag=gz&sids=10004_10041_10050_10061_10190_10291_10391_10705_10302_10709_10910_10913_11004_10903_10015_10017_10907_11012_11031_11041_10072_10082_11094_11102_9999&logid=3047428622&entrance=general&tpl_from=pc&image=https%3A%2F%2Fgraph.baidu.com%2Fthumb%2F4111089274,1038359589.jpg&carousel=503&index=0&page=1
 
@@ -52,7 +52,7 @@ Da Nang beckons to me with its mysteriousness and simplicity.
 The people there are warm and kind. 
 
 <figure>
-  <img src="/images/YiniHe/2panda5.jpg">
+  <img alt="" /images/YiniHe/2panda5.jpg" />
   <figcaption> The panda truly loves the global village(photo by Yini) </figcaption>
 </figure>
                   
@@ -63,7 +63,7 @@ I used to play the ukelele wearing Qipao(a traditional dress of China).
 I also tried cooking a Chinese meal with fish and chips. 
 
 <figure>
-  <img src="/images/YiniHe/3qipao5.jpg">
+  <img alt="" src="/images/YiniHe/3qipao5.jpg" />
   <figcaption> One of the most beautiful nouns in the world is culture (photo by Yini) </figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ At the same time I was distressed to think that they could face social difficult
 Ever since then, I’ve always thought about these teenagers and hoped that they could have a better life with the help of medical and therapeutic advancements for mental health. 
 
 <figure>
-  <img src="/images/YiniHe/4yuanmingyuan5.jpg">
+  <img alt="" src="/images/YiniHe/4yuanmingyuan5.jpg" />
   <figcaption> Could we replace tradge with love?(photo by Yini) </figcaption>
 </figure>
 
@@ -105,6 +105,6 @@ I hope to learn from her how to do the most convincing research.
 I also hope to learn from her passion to try to change the world.
 
 <figure>
-  <img src="/images/YiniHe/5wodebrain3_5.jpg">
+  <img alt="" /images/YiniHe/5wodebrain3_5.jpg" />
   <figcaption> This my brain :)(photo by Yini) </figcaption>
 </figure>
