@@ -33,7 +33,7 @@ One of the major focuses of the research within Kirstie's group is to empower re
 
 Reproducible research is work that can be independently verified. In practise it means sharing the data and the code that were used to generate scientific results. Without the evidence of what was done, journal articles are simply nice, interesting stories. All readers, not just collaborators or the original authors, must be able to check published research.
 
-This comic strip, [Repeat After Me](https://thenib.com/repeat-after-me), by [Maki Naro](https://thenib.com/maki-naro) for [The Nib](https://thenib.com/) is a really wonderful explanation of the incentive structure in academic research and how it has contributed to the current reproducibility crisis.
+This comic strip, [Repeat After Me](https://thenib.com/repeat-after-me), by [Maki Naro](https://thenib.com/author/maki-naro/) for [The Nib](https://thenib.com/) is a really wonderful explanation of the incentive structure in academic research and how it has contributed to the current reproducibility crisis.
 
 ### Working Open
 
