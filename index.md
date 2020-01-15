@@ -28,7 +28,7 @@ One of the major focuses of the research within Kirstie's group is to empower re
            src="https://thenib.imgix.net/usq/a81ad36e-ecfe-46e2-9710-ab4d77d97a09/repeat-after-me-004-c4c849.jpeg?auto=compress,format"
            width="80%" >
     </a>
-    <figcaption>Panel from <a href="https://thenib.com/repeat-after-me">Repeat After Me</a>, by <a href="https://thenib.com/maki-naro">Maki Naro</a>.</figcaption>
+    <figcaption>Panel from <a href="https://thenib.com/repeat-after-me">Repeat After Me</a>, by <a href="https://thenib.com/author/maki-naro/">Maki Naro</a>.</figcaption>
 </figure>
 
 Reproducible research is work that can be independently verified. In practise it means sharing the data and the code that were used to generate scientific results. Without the evidence of what was done, journal articles are simply nice, interesting stories. All readers, not just collaborators or the original authors, must be able to check published research.
