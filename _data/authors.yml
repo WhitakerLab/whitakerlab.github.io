@@ -42,6 +42,13 @@ GeorgiaHCA:
   avatar: GeorgiaProfilePic.jpg
   twitter: N/A
 
+sarah_gibson: # No spaces please
+  name: Sarah Gibson
+  email: sgibson@turing.ac.uk
+  bio: "Research Software Engineer"
+  avatar: sarah_gibson.png
+  twitter: drsarahlgibson
+
 #=============================================
 # Template profile - copy and paste this above
 # then complete as directed
