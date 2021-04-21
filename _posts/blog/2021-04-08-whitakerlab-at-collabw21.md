@@ -13,7 +13,8 @@ share: true
 author: sarah_gibson ### CHANGE to your author name (in _data/authors.yml)
 ---
 
-At the end of March 2021, meny member's of the Whitaker Lab attended the Collaborations Workshop hosted by the Software Sustainability Institute and, at the following lab meeting, those who attended shared their experiences with the rest of the lab.
+At the end of March 2021, many members of the Whitaker Lab attended the Software Sustainability Institute's Collaborations Workshop.
+At the following lab meeting, those who attended shared their experiences with the rest of the lab.
 This is a blog post covering the event and the lab member's reflections from it.
 
 ## What is the SSI?
