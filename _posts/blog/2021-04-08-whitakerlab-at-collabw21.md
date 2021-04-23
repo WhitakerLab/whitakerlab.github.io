@@ -19,7 +19,7 @@ This is a blog post covering the event and the lab member's reflections from it.
 
 ## What is the SSI?
 
-The [Software Sustainability Institute](https://software.ac.uk/about) (SSI for short) is a network of UK universities, Research Software Engineering groups and policy makers dedicated in improving the quality, sustainability and recognition of research software.
+The [Software Sustainability Institute](https://software.ac.uk/about) (SSI for short) is a network of UK universities, Research Software Engineering groups and policy makers dedicated to improving the quality, sustainability and recognition of research software.
 They help the members in their network learn software skills and best practices, and advocate for culture change in their organisations and institutions.
 
 Many members of the lab (current and past) are also [SSI Fellows](https://software.ac.uk/programmes-and-events/fellowship-programme).
