@@ -27,7 +27,7 @@ Many members of the lab (current and past) are also [SSI Fellows](https://softwa
 
 ## What is Collaborations Workshop?
 
-The [Collaborations Workshop](https://software.ac.uk/programmes-and-events/collaborations-workshops) (often shorted to CollabW) is an annual, 3-day event focused around bringing together researchers, software developers, data librarians, managers, funders and anyone else who cares about research software to foster interdisciplinary collaborations and explore important ideas around software and research.
+The [Collaborations Workshop](https://software.ac.uk/programmes-and-events/collaborations-workshops) (often shortened to CollabW) is an annual, 3-day event focused around bringing together researchers, software developers, data librarians, managers, funders and anyone else who cares about research software to foster interdisciplinary collaborations and explore important ideas around software and research.
 
 CollabW features a few keynotes but it is largely run as an [unconference event](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/) with lightning talks, discussion sessions, mini workshops, and speed blogging events all relating to one or a few central themes.
 This feels radically different to traditional conference events as you are elevated from audience member to participant, giving you the opportunity to create something during the event and have discussions with a wide variety of other attendees.
