@@ -25,7 +25,7 @@ They help the members in their network learn software skills and best practices,
 Many members of the lab (current and past) are also [SSI Fellows](https://software.ac.uk/programmes-and-events/fellowship-programme).
 [Can you spot them?](https://software.ac.uk/about/fellows)
 
-## What is Collaborations Workshop?
+## What is the Collaborations Workshop?
 
 The [Collaborations Workshop](https://software.ac.uk/programmes-and-events/collaborations-workshops) (often shortened to CollabW) is an annual, 3-day event focused around bringing together researchers, software developers, data librarians, managers, funders and anyone else who cares about research software to foster interdisciplinary collaborations and explore important ideas around software and research.
 
