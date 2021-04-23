@@ -65,7 +65,7 @@ _Source link: https://www.krysburnette.com/blog/2019/1/22/belonging-a-conversati
 ![](../../images/WhitakerLab_CollabW_amehonic.jpg)
 
 As you can see, themes around disability, diversity, inclusion and accessibility resonated particularly strongly within the group.
-But the unconference style felt very refreshing, if not a little exhausting!
+We also found the unconference style very refreshing, if not a little exhausting!
 
 Additionally on the third day of CollabW21, Sarah and Patricia's hackday projects on [Research Dugnads](https://research-dugnads.github.io/dugnads-hq/) and [Coding Confessions](https://coding-confessions.github.io/) won 3rd and 2nd place, respectively!
 Well done Sarah and Patricia!
