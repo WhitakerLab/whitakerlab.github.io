@@ -46,7 +46,10 @@ Some of the highlights included an inspiring [keynote on Diversity and Inclusion
 ## The Lab's Reflections
 
 At the lab meeting after the event, each member that attended was asked to produce a slide reflecting on their experience at CollabW21.
-They were asked to highlight something they really enjoyed, was unexpected, or completely different to past conference experiences (signified by the :rocket: emoji); and a topic that resonated with them, got them thinking, that they’d like to share/discuss with the lab (signified by the :thinking: emoji).
+They were asked to answer the following questions:
+
+ 1. What is something you really enjoyed, was unexpected, or completely different to past conference experiences? (signified by the :rocket: emoji below)
+ 2. Can you share a topic that resonated with you, got you thinking, that you’d like to share/discuss with the lab? (signified by the :thinking: emoji below)
 You can see their slides below.
 
 ![](../../images/WhitakerLab_CollabW_sgibson.jpg)
