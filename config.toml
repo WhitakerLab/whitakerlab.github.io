@@ -11,6 +11,12 @@ pygmentsCodefences = true
 description = "Updates from Kirstie's research group"
 title404 = "Sorry, but the page you were trying to view does not exist!"
 
+[params.assets]
+favicon = "assets/favicon.ico"
+
+[params.settings]
+accentColor = "#66ff33"
+
 [params.sidebar]
 enable = true
 
