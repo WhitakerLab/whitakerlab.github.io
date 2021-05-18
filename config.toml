@@ -17,7 +17,13 @@ identifier = "about"
 url = "/about/"
 
 [[menu.main]]
-name = "Contact"
+name = "Visit"
 weight = 300
+identifier = "visit"
+url = "/visit/"
+
+[[menu.main]]
+name = "Contact"
+weight = 400
 identifier = "contact"
 url = "/contact/"
