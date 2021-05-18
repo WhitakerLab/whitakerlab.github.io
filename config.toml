@@ -1,0 +1,4 @@
+baseURL = "http://whitakerlab.github.io/"
+languageCode = "en-gb"
+title = "Whitaker Lab"
+theme = "minimo"
