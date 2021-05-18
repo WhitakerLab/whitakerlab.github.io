@@ -4,6 +4,23 @@ title = "Whitaker Lab"
 theme = "minimo"
 enableEmoji = true
 
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+[params.info]
+description = "Updates from Kirstie's research group"
+title404 = "Sorry, but the page you were trying to view does not exist!"
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+sidebar = ["about", "search", "sidebar_menu", "social_menu"]
+
+[params.social]
+github = "WhitakerLab"
+twitter = "Whitaker_Lab"
+
 [[menu.main]]
 name = "Home"
 weight = 100
