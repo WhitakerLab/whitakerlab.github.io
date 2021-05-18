@@ -21,11 +21,15 @@ accentColor = "#66ff33"
 enable = true
 
 [params.widgets]
+homepage = ["recent_posts"]
 sidebar = ["about", "search", "sidebar_menu", "social_menu"]
 
 [params.social]
 github = "WhitakerLab"
 twitter = "Whitaker_Lab"
+
+[params.search]
+client = "fuse"
 
 [taxonomies]
 author = "authors"
