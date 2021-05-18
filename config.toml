@@ -2,3 +2,16 @@ baseURL = "http://whitakerlab.github.io/"
 languageCode = "en-gb"
 title = "Whitaker Lab"
 theme = "minimo"
+enableEmoji = true
+
+[[menu.main]]
+name = "Home"
+weight = 100
+identifier = "home"
+url = "/"
+
+[[menu.main]]
+name = "About"
+weight = 200
+identifier = "about"
+url = "/about/"
