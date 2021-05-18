@@ -27,6 +27,12 @@ sidebar = ["about", "search", "sidebar_menu", "social_menu"]
 github = "WhitakerLab"
 twitter = "Whitaker_Lab"
 
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
 [[menu.main]]
 name = "Home"
 weight = 100
