@@ -27,3 +27,9 @@ name = "Contact"
 weight = 400
 identifier = "contact"
 url = "/contact/"
+
+[[menu.main]]
+name = "GitHub"
+weight = 500
+identifier = "repository"
+url = "https://github.com/whitakerlab"
