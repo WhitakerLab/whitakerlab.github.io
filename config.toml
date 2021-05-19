@@ -72,3 +72,6 @@ name = "GitHub"
 weight = 600
 identifier = "repository"
 url = "https://github.com/whitakerlab"
+
+[markup.goldmark.renderer]
+unsafe = true
