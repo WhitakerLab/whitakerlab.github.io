@@ -1,4 +1,4 @@
-id = ""  # e.g. kirstiewhitaker
+id = ""  # Must be the same as the filename e.g. templateauthor
 
 [email]
 username = ""  # This is the part of your email BEFORE the @
