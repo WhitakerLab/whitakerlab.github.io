@@ -56,20 +56,26 @@ identifier = "visit"
 url = "/visit/"
 
 [[menu.main]]
-name = "Blog"
+name = "Resources"
 weight = 400
+identifier = "resources"
+url = "/resources/"
+
+[[menu.main]]
+name = "Blog"
+weight = 500
 identifier = "blog"
 url = "/blog/"
 
 [[menu.main]]
 name = "Contact"
-weight = 500
+weight = 600
 identifier = "contact"
 url = "/contact/"
 
 [[menu.main]]
 name = "GitHub"
-weight = 600
+weight = 700
 identifier = "repository"
 url = "https://github.com/whitakerlab"
 
