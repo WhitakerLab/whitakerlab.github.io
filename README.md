@@ -1,20 +1,189 @@
 # Whitaker Lab Website
 
- [![Build Status](https://travis-ci.org/WhitakerLab/whitakerlab.github.io.svg?branch=master)](https://travis-ci.org/WhitakerLab/whitakerlab.github.io)
- 
-This repository contains the code to host the Whitaker Lab website: https://whitakerlab.github.io.
+[TBA: Build Status Badge]
 
-It is powered by Jekyll and based off the [So Simple Theme](http://mmistakes.github.io/so-simple-theme) by designer slash illustrator [Michael Rose](http://mademistakes.com). THANK YOU Michael :tada: :sparkles:
+This repository contains the code to host the Whitaker Lab website: <https://whitakerlab.github.io>.
+It is powered by Hugo and uses the [Minimo Theme](https://minimo.netlify.app/).
 
-Continuous integration is managed by [Travis CI](https://travis-ci.org/). If our build status badge (at the top of this page) is not a beautiful bright green, please take a look and see if you can fix any of the problems!
+Continuous integration is managed by [GitHub Actions](https://docs.github.com/en/actions).
+If our build status badge (at the top of this page) is not a beautiful bright green, please take a look and see if you can fix any of the problems!
 
 ## Some useful commands
 
 I ([Kirstie](https://github.com/KirstieJane)) find myself googling for the following commands everytime I interact with this repository, so here they are to make my life easier!
 
-* [Setting up your github pages site locally with jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll)<br/>
-      Specifically I want the following command from [step 4](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-4-build-your-local-jekyll-site) which builds the website locally<br/>
-      
+* [Hugo Getting Started quickstart guide](https://gohugo.io/getting-started/quick-start/)<br/>
+      Specifically I want the following command from [step 5](https://gohugo.io/getting-started/quick-start/#step-5-start-the-hugo-server) which builds the website locally, including any posts marked as draft<br/>
+
+```bash
+hugo server -D
 ```
-bundle exec jekyll serve --livereload
-``` 
+
+## How to Add a New Blog Post
+
+To create a new blog post you can either:
+
+1. Run the Hugo command line
+
+```bash
+hugo new blog/title-of-blog.md
+```
+
+2. Make a copy of the [`template.md`](content/blog/template.md) file under the [`content/blog`](/content/blog) folder.
+
+### Front matter
+
+All blog posts must contain the following information at the top of the Markdown document.
+
+```yaml
+---
+title: "Template"  # Update with title
+date: 2021-05-19T00:00:00+00:00  # Update with date. You can leave the time as 0's if unsure.
+draft: true  # Change to false
+authors: []  # Comma separated list of authors surrounded by double quotes. E.g. ["kirstiewhitaker", "janedoe"]
+categories: blog  # DO NOT CHANGE
+tags: []  # List of tags
+---
+```
+
+The content of the blog can then be written, in Markdown syntax, under the second `---` divider.
+
+### Filename convention
+
+We recommend naming blog files with the following convention:
+
+```bash
+YYYY-MM-DD-title-of-blog-post.md
+```
+
+This means the directory will be ordered by date the post was added (ascending) and will avoid name clashes with repeating blogs, such as `lab-meeting.md`.
+
+### Where to Store Images
+
+Please add any images you wish to include to the [`static/images`](/static/images) folder.
+They are then referenced as `/images/image-name`, _**without**_ the `static` prefix.
+
+If you are uploading a lot of images for a single post, you may wish to create a dedicated subdirectory under `static/images`.
+
+### Embedding Content into Blog Posts
+
+Hugo uses [shortcodes](https://gohugo.io/content-management/shortcodes/) to embed external content into pages without the need to copy long lines of HTML code.
+However, if a shortcode doesn't exist for the content you'd like to embed, copying the long HTML code will still work!
+
+Some useful shortcode examples:
+
+#### A Tweet
+
+```
+{{< tweet TWEET_ID >}}
+```
+
+where `TWEET_ID` is the _numeric_ part of the Tweet URL.
+[Docs](https://gohugo.io/content-management/shortcodes/#tweet)
+
+#### A figure
+
+```
+{{< figure src="" alt="" caption="" >}}
+```
+
+where `src` could be a URL _or_ a reference to a local image (that is, `/images/image-name`), `alt` defines the alt-text, and `caption` renders an image caption.
+Any Markdown contained in `caption` will be rendered as expected.
+[Docs](https://gohugo.io/content-management/shortcodes/#figure)
+
+#### A YouTube video
+
+```
+{{< youtube VIDEO_ID >}}
+```
+
+where `VIDEO_ID` is the code that follows `v=` in the URL.
+[Docs](https://gohugo.io/content-management/shortcodes/#youtube)
+
+#### Internal Links
+
+The shortcodes `ref` and `relref` will look up pages by their relative path (e.g., `blog/post.md`) or their logical name (`post.md`) and return the permalink (`ref`) or relative permalink (`relref`) for the found page.
+
+`ref` and `relref` also make it possible to make fragmentary links that work for the header links generated by Hugo.
+
+[See the documentation for examples](https://gohugo.io/content-management/shortcodes/#ref-and-relref).
+
+## How to Add Yourself as an Author
+
+1. Create a new TOML file under the [`data/authors`](/data/authors) folder.
+   - Give the file your name in all lowercase, no spaces and no symbols.
+     For example, Jane Doe would create `janedoe.toml`
+   - You can copy [`templateauthor.toml`](data/authors/templateauthor.toml) as an example
+2. Add your data.
+   Each file must follow the below structure.
+   - The `social.twitter` field is optional
+
+   ```toml
+   id = ""  # Must be the same as the filename e.g. templateauthor
+
+   [email]
+   username = ""  # This is the part of your email BEFORE the @
+   host = ""      # This is the part of your email AFTER the @
+
+   [name]
+   display = ""  # How you would like your name to be displayed
+
+   [social]
+   twitter = ""  # Your Twitter handle (no @)
+   ```
+
+   Jane Doe's example would look like this.
+
+   ```toml
+   id = "janedoe"
+
+   [email]
+   username = "janedoe"
+   host = "gmail.com"
+
+   [name]
+   display = "Jane Doe"
+
+   [social]
+   twitter = "JaneDoe"
+   ```
+
+3. You can now be listed as an author for posts in the `authors` field of the post's front matter like so.
+
+   ```yaml
+   authors: ["janedoe"]
+   ```
+
+## Updating the Hugo Theme
+
+1. Clone the repo and change into the directory
+
+   ```bash
+   git clone https://github.com/WhitakerLab/whitakerlab.github.io.git
+   cd whitakerlab.github.io
+   ```
+
+2. Update the theme in the `themes` directory
+
+   ```bash
+   cd themes/minimo
+   git checkout master
+   git fetch && git pull
+   cd ../..
+   ```
+
+3. Check our [`config.toml`](config.toml) is up-to-date with the [latest `config.toml`](https://minimo.netlify.app/docs/config-file/) format.
+   It's also a good idea to double check the [configuration settings](https://minimo.netlify.app/docs/installation/#configuration-for-minimo) of Minimo.
+   Lastly, check Hugo can still build the site.
+
+   ```bash
+   hugo server -D
+   ```
+
+4. Add, commit and push the updated theme.
+
+   ```bash
+   git add themes/minimo
+   git commit -m "Update [theme]: minimo"
+   git push
+   ```

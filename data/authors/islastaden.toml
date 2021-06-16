@@ -1,0 +1,11 @@
+id = "islastaden"
+
+[email]
+username = "istaden"
+host = "gmail.com"
+
+[name]
+display = "Isla Staden"
+
+[social]
+twitter = "islastaden"

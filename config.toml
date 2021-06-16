@@ -1,0 +1,83 @@
+baseURL = "http://whitakerlab.github.io/"
+languageCode = "en-gb"
+title = "Whitaker Lab"
+theme = "minimo"
+enableEmoji = true
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+[params.info]
+description = "Updates from Kirstie's research group"
+title404 = "Sorry, but the page you were trying to view does not exist!"
+
+[params.assets]
+favicon = "assets/favicon.ico"
+
+[params.settings]
+accentColor = "#66ff33"
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+homepage = ["recent_posts"]
+sidebar = ["about", "search", "sidebar_menu", "social_menu"]
+
+[params.social]
+github = "WhitakerLab"
+twitter = "Whitaker_Lab"
+
+[params.search]
+client = "fuse"
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
+[[menu.main]]
+name = "Home"
+weight = 100
+identifier = "home"
+url = "/"
+
+[[menu.main]]
+name = "About"
+weight = 200
+identifier = "about"
+url = "/about/"
+
+[[menu.main]]
+name = "Visit"
+weight = 300
+identifier = "visit"
+url = "/visit/"
+
+[[menu.main]]
+name = "Resources"
+weight = 400
+identifier = "resources"
+url = "/resources/"
+
+[[menu.main]]
+name = "Blog"
+weight = 500
+identifier = "blog"
+url = "/blog/"
+
+[[menu.main]]
+name = "Contact"
+weight = 600
+identifier = "contact"
+url = "/contact/"
+
+[[menu.main]]
+name = "GitHub"
+weight = 700
+identifier = "repository"
+url = "https://github.com/whitakerlab"
+
+[markup.goldmark.renderer]
+unsafe = true

@@ -1,0 +1,11 @@
+id = ""  # Must be the same as the filename e.g. templateauthor
+
+[email]
+username = ""  # This is the part of your email BEFORE the @
+host = ""      # This is the part of your email AFTER the @
+
+[name]
+display = ""  # How you would like your name to be displayed
+
+[social]
+twitter = ""  # Your Twitter handle (no @)
