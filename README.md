@@ -1,6 +1,6 @@
 # Whitaker Lab Website
 
-[TBA: Build Status Badge]
+[![Build and Deploy Site](https://github.com/WhitakerLab/whitakerlab.github.io/actions/workflows/cd.yml/badge.svg)](https://github.com/WhitakerLab/whitakerlab.github.io/actions/workflows/cd.yml)
 
 This repository contains the code to host the Whitaker Lab website: <https://whitakerlab.github.io>.
 It is powered by Hugo and uses the [Minimo Theme](https://minimo.netlify.app/).
