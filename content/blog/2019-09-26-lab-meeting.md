@@ -114,7 +114,7 @@ She also recommended (and **Kirstie** strongly concurs!) getting lots of people 
 **Patricia** shared the following PhD Comic 😆
 
 <figure>
-  <img src="http://phdcomics.com/comics/archive/phd050305s.gif" alt="Addressing reviewer comments comic from PhD Comics">
+  <img src="https://phdcomics.com/comics/archive/phd050305s.gif" alt="Addressing reviewer comments comic from PhD Comics">
   <figcaption>Source: <a href="http://phdcomics.com/comics/archive.php?comicid=581">PhD Comics</a> from 2005!.
   </figcaption>
 </figure>
