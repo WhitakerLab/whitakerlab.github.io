@@ -1,15 +1,15 @@
-name: Build and Deploy Site
+name: Build and Test Site
 
-on: [push, pull_request]
-  # push:
-  #   branches:
-  #     - master
-  # pull_request:
-  #   branches:
-  #     - master
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
 
 jobs:
-  build-and-deploy-site:
+  build-and-test-site:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -32,10 +32,3 @@ jobs:
           directory: "./public"
           arguments: --only-4xx --check-favicon --check-html --assume-extension --empty-alt-ignore --disable-external
         continue-on-error: true
-
-      - name: Deploy to GitHub Pages
-        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
