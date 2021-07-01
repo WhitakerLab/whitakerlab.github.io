@@ -41,7 +41,7 @@ identifier = "home"
 url = "/"
 
 [[menu.main]]
-name = "About"
+name = "About Us"
 weight = 200
 identifier = "about"
 url = "/about/"
