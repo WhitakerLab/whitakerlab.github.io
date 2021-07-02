@@ -17,5 +17,5 @@ You may be able to help us out!
 
 We have a [gitter chat room](https://gitter.im/WhitakerLab/Lobby) and love to say hello there.
 
-This website is hosted via [GitHub pages](https://github.com/WhitakerLab/whitakerlab.github.io).
+This website is built from [GitHub](https://github.com/WhitakerLab/whitakerlab.github.io).
 If you see any typos or other mistakes please let us know... or file a pull request with your edits.
